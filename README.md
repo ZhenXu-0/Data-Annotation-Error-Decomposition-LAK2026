@@ -6,4 +6,4 @@ Zhen Xu, Vedant Khatri, Diana Dai, Xiner Liu, Siyan, Xuanming, Renzhe Yu. (2025)
 
 ## Appendix
 The appendix is available here:  
-[Appendix (PDF)](appendix.pdf)
+[Appendix (PDF)](LAK26_Error_Decomposition_appendix.pdf)
