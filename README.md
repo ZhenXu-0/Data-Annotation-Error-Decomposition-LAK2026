@@ -136,34 +136,11 @@ You need two CSV files:
   - `ID`: Unique identifier for each item being annotated
   - **Taxonomy level columns**: One column for each level in your taxonomy (see examples below)
 
-- **Data format options**:
-  - **Wide format** (recommended): One column per taxonomy level, with values of 1 (selected) or 0 (not selected)
-    ```
-    Annotator,ID,Level1,Level2,Level3,Level4
-    groundtruth,1,0,0,1,0
-    A1,1,0,1,0,0
-    A2,1,0,0,1,0
-    ```
-  - **Long format**: One row per annotation with a `Label` column
-    ```
-    Annotator,ID,Label
-    groundtruth,1,Level3
-    A1,1,Level2
-    A2,1,Level3
-    ```
 
 **B. Model Annotation File** (`model_annotation.csv`):
 - **Required columns**:
   - `human_category`: The human-annotated category (groundtruth) for each item
   - `model_category`: The model-predicted category for each item
-
-- **Example**:
-  ```
-  outcome_id,human_category,model_category
-  1,analyze,analyze
-  2,remember,analyze
-  3,evaluate,evaluate
-  ```
 
 #### Step 2: Configure the Script
 
