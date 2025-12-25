@@ -51,7 +51,7 @@ The appendix of the paper is available here: [Appendix (PDF)](LAK26_Error_Decomp
 We provide sample data templates in error_decomposition_sample_data/ for applying the error decomposition method to new annotation tasks:
 
 - **`human_annotation.csv`**: Example human annotation file using Bloom taxonomy format (20 items, 2 annotators + ground truth)
-- **`model_annotation.csv`**: Example model prediction file (150 items) with `human annotation` and `model annotation`
+- **`model_annotation.csv`**: Example model prediction file (150 human annotation + model annotation)
 
 
 ## Setup
@@ -86,11 +86,11 @@ We provide sample data templates in error_decomposition_sample_data/ for applyin
 
 ## Replicating Paper Results
 
-This section explains how to run `paper_results.py` to generate the 5 figures from the paper.
+This section illustrates the generation of analysis and results (5 figures) from the paper.
 
 ### Running the Script
 
-1. **Make sure your virtual environment is activated** (see Setup above)
+1. **Activat virtual environment** (see Setup above)
 
 2. **Run the script**:
    ```bash
@@ -126,19 +126,11 @@ The script supports different annotation numbers (20, 30, or 40 annotations per 
 
 4. **Save the file** and run the script again
 
-**Note**: The script will automatically load the corresponding annotation files:
-   - `human_annotation/Bloom-All_{ANNOTATION_NUMBER}.csv`
-   - `human_annotation/MathDial-All_{ANNOTATION_NUMBER}.csv`
-   - `human_annotation/Uptake-All_{ANNOTATION_NUMBER}.csv`
-   - `human_annotation/GUG-All_{ANNOTATION_NUMBER}.csv`
-
-**Important**: Currently, the agreement files (`bloom_agreement_20.csv`, etc.) and GUG annotation file are hardcoded to use `_20.csv`. If you need to use different annotation numbers for these, you will need to manually update the file paths in the code (around lines 262, 521-524).
-
 ---
 
-## Part 2: Applying Error Decomposition to Your Own Task
+## Applying Error Decomposition to Your Own Task
 
-This section explains how to use `calculate_error_decomposition.py` to calculate error decomposition percentages for your own ordinal classification task.
+This section explains how to calculate error decomposition percentages for your own ordinal annotation task.
 
 ### Overview
 
