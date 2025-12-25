@@ -90,9 +90,7 @@ This section illustrates the generation of analysis and results (5 figures) from
 
 ### Running the Script
 
-1. **Activat virtual environment** (see Setup above)
-
-2. **Run the script**:
+1. **Run the script**:
    ```bash
    python paper_results.py
    ```
@@ -141,8 +139,6 @@ The script calculates 5 error decomposition percentages that sum to 1.0:
 4. **Boundary Ambiguity Error (Model)**: Model-specific errors due to boundary ambiguity
 5. **Conceptual Misidentification Error (Model)**: Model-specific errors due to conceptual misidentification
 
-### Step-by-Step Instructions
-
 #### Step 1: Prepare Your Data Files
 
 You need two CSV files:
@@ -171,9 +167,8 @@ You need two CSV files:
 
 **B. Model Annotation File** (`model_annotation.csv`):
 - **Required columns**:
-  - `human_category`: The human-annotated category for each item
+  - `human_category`: The human-annotated category (groundtruth) for each item
   - `model_category`: The model-predicted category for each item
-- **Optional columns**: Any additional metadata (model name, technique, etc.) - these are ignored by the script
 
 - **Example**:
   ```
@@ -209,32 +204,11 @@ You need two CSV files:
    - List levels in order from **lowest to highest** (this defines the ordinal structure)
    - Use **lowercase** names (the script normalizes all labels to lowercase)
    - The script will automatically calculate distances between levels based on this ordering
-   
-   **Examples for different tasks**:
-   ```python
-   # MathDial (4 levels):
-   TAXONOMY_LEVELS = ["focus", "probing", "telling", "generic"]
-   
-   # Uptake (3 levels):
-   TAXONOMY_LEVELS = ["low", "mid", "high"]
-   
-   # GUG (4 levels, numeric):
-   TAXONOMY_LEVELS = ["1", "2", "3", "4"]
-   
-   # Custom task with 5 levels:
-   TAXONOMY_LEVELS = ["beginner", "intermediate", "advanced", "expert", "master"]
-   ```
 
-5. **Update column names** (if needed):
-   - The script expects `Annotator` and `ID` columns in the human annotation file
-   - The script expects `human_category` and `model_category` columns in the model annotation file
-   - If your columns have different names, you'll need to modify the code (see comments around line 54-57)
 
 #### Step 3: Run the Script
 
-1. **Make sure your virtual environment is activated** (see Setup above)
-
-2. **Run the script**:
+1. **Run the script**:
    ```bash
    python calculate_error_decomposition.py
    ```
@@ -256,70 +230,6 @@ You need two CSV files:
    Total                                        : 100.00% (1.0000)
    ============================================================
    ```
-
-### Example: Using Sample Data
-
-The repository includes sample data files in the `error_decomposition_sample_data/` folder:
-- `human_annotation.csv`: Example human annotations (Bloom taxonomy, 20 items)
-- `model_annotation.csv`: Example model predictions (150 items)
-
-To test the script with these sample files, the configuration is already set up. Just run:
-```bash
-python calculate_error_decomposition.py
-```
-
-### Troubleshooting
-
-**Issue**: "FileNotFoundError" when running the script
-- **Solution**: Check that the file paths in the configuration section are correct and relative to the script location
-
-**Issue**: "KeyError" for column names
-- **Solution**: Verify that your CSV files have the required columns (`Annotator`, `ID` for human data; `human_category`, `model_category` for model data)
-
-**Issue**: Taxonomy levels not matching
-- **Solution**: Ensure that:
-  1. Your `TAXONOMY_LEVELS` list matches the actual category names in your data (case-insensitive)
-  2. All categories in your data files are valid taxonomy levels
-  3. The script normalizes all labels to lowercase, so "Analyze" and "analyze" are treated the same
-
-**Issue**: Results don't sum to 1.0
-- **Solution**: This should not happen. If it does, check that:
-  1. All categories in your data are valid taxonomy levels
-  2. There are no missing values in critical columns
-  3. The data files are properly formatted
-
-### Understanding the Results
-
-- **Correct Annotation**: Higher is better. This is the percentage of items where the model prediction exactly matches the human annotation.
-
-- **Task-Inherent Errors** (Boundary Ambiguity and Conceptual Misidentification): These represent errors that are "built into" the task due to human annotation ambiguity. Even if a model were perfect, it might still make these errors because humans disagree on the correct label.
-
-- **Model-Specific Errors**: These represent errors that are specific to the model's performance, beyond what can be explained by human annotation ambiguity.
-
-The decomposition helps you understand:
-- How much of the model's error is due to task ambiguity vs. model limitations
-- Whether improving the model would help, or if the task itself is inherently ambiguous
-
----
-
-## Requirements
-
-See `requirements.txt` for the complete list of Python packages. Main dependencies:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scipy
-
----
-
-## Deactivating Virtual Environment
-
-When you're done working:
-```bash
-deactivate
-```
-
 ---
 
 ## Citation
