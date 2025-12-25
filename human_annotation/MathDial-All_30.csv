@@ -1,0 +1,90 @@
+Annotator,ID,Text,Label
+groundtruth,1,"Teacher: Hi Mariana, please talk me through your solution|EOM|",generic
+groundtruth,2,Teacher: Okay - you've overcomplicated this. Let's start again. We know Julia has 12 spoons when setting the table. We also know she used three whilst sampling her stew. How many is that altogether?|EOM|,focus
+groundtruth,3,"Teacher: No, you need to add as she still has the spoons, 3 have just been used|EOM|",telling
+groundtruth,4,"Teacher: Yes, that's it|EOM|",generic
+groundtruth,5,"Teacher: Hi Ayisha, please talk me through your solution|EOM|",generic
+groundtruth,6,"Teacher: Okay, let's start again. If each bid adds $50 to the price and there were 3 bids - how much is added to the overall cost?|EOM|",focus
+groundtruth,7,Teacher: Yes $150. Carmen adds a $50 bid after each of the three bids. How much more does this add to the cost?|EOM|,focus
+groundtruth,8,Teacher: 3 x 50 is 150. So it adds a further $150 making the total so far $300|EOM|,telling
+groundtruth,9,"Teacher: No, go back and check what we said. The 3 bids $150 + Carmen's Bid $150 + the opening bid $200|EOM|",focus
+groundtruth,10,Teacher: Check your calculation of $200 + $150 + $150 = $350. Your total is not correct|EOM|,telling
+groundtruth,11,Teacher: No the equation 200 + 150 + 150 is correct - you need to revise the answer|EOM|,telling
+groundtruth,12,Teacher: 200 + 150 + 150 is 500 not 350|EOM|,telling
+groundtruth,13,Teacher: No the answer is $500 as $200 + $150 + $150 is $500|EOM|,telling
+groundtruth,14,Teacher: Hi Scott - talk me through your answer|EOM|,generic
+groundtruth,15,"Teacher: Lets try it from a different angel. Try $3,650 x 0.1 to calculate the interest|EOM|",focus
+groundtruth,16,Teacher: Slow down. What is 拢3650 x 0.1?|EOM|,focus
+groundtruth,17,Teacher: The intrest rate is over the five months. The total is 0.1 so it doesn't need multiplying by 5. The interest is $365 which then needs to be added to the amount borrowed before being dividing by the amount of months |EOM|,focus
+groundtruth,18,"Teacher: Hi DeAndre, tell me your answer |EOM|",generic
+groundtruth,19,Teacher: How did you get there?|EOM|,generic
+groundtruth,20,Teacher: You've gone too far with this one. It's only asking how mnay he started juggling with|EOM|,focus
+groundtruth,21,"Teacher: Yes, then adds 1 ball for each of the 4 weeks. |EOM|",focus
+groundtruth,22,Teacher: And finally drops 3 making the total..|EOM|,focus
+groundtruth,23,"Teacher: Hi Cody, talk me through your solution|EOM|Cody: Sure. I started by figuring out how much money Billy had left to spend on candy. He had $10, and if he spent half his change on gumballs, he had $5 left to spend on candy and gumballs. He spent $0.05 x 40 = $2 on gumballs, so he had $5 - $2 = $3 left to spend on candy. Then I divided $3 by $1.5 per pound to get 2 pounds of candy. So, Billy bought 2 pounds of candy.|EOM|",generic
+groundtruth,24,"Teacher: Okay - let's revisit this by starting with how much he spent on gumballs|EOM|Cody: Sure. Billy spent $0.05 x 40 = $2 on gumballs. Then I subtracted that from the $10 his father gave him, so he had $5 - $2 = $3 left to spend on candy. Then I divided $3 by $1.5 per pound to get 2 pounds of candy. So, Billy bought 2 pounds of candy.|EOM|",focus
+groundtruth,25,"Teacher: Slow down. He spents $2 on gumballs. You need to / this by 0.5 to calculate the change|EOM|Cody: Oh, okay. Billy spent $0.05 x 40 = $2 on gumballs. Then I divided that by 0.5 to get the change, which was $2/0.5 = $4. Then I subtracted that from the $10 his father gave him, so he had $10 - $4 = $6 left to spend on candy. Then I divided $6 by $1.5 per pound to get 4 pounds of candy. So, Billy bought 4 pounds of candy.",focus
+groundtruth,26,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,focus
+groundtruth,27,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,focus
+groundtruth,28,Teacher: We know that her husband bought 5 and she used 3 how many would this leave us |EOM|,focus
+groundtruth,29,Teacher: She used three of the 5 how many left|EOM|,focus
+groundtruth,30,"Teacher: She used 3 from 5 snd at the end at 12 left , can you work this out|EOM|",probing
+A1,1,"Teacher: Hi Mariana, please talk me through your solution|EOM|",Generic
+A1,2,Teacher: Okay - you've overcomplicated this. Let's start again. We know Julia has 12 spoons when setting the table. We also know she used three whilst sampling her stew. How many is that altogether?|EOM|,Focus
+A1,3,"Teacher: No, you need to add as she still has the spoons, 3 have just been used|EOM|",Telling
+A1,4,"Teacher: Yes, that's it|EOM|",Generic
+A1,5,"Teacher: Hi Ayisha, please talk me through your solution|EOM|",Generic
+A1,6,"Teacher: Okay, let's start again. If each bid adds $50 to the price and there were 3 bids - how much is added to the overall cost?|EOM|",Focus
+A1,7,Teacher: Yes $150. Carmen adds a $50 bid after each of the three bids. How much more does this add to the cost?|EOM|,Focus
+A1,8,Teacher: 3 x 50 is 150. So it adds a further $150 making the total so far $300|EOM|,Telling
+A1,9,"Teacher: No, go back and check what we said. The 3 bids $150 + Carmen's Bid $150 + the opening bid $200|EOM|",Focus
+A1,10,Teacher: Check your calculation of $200 + $150 + $150 = $350. Your total is not correct|EOM|,Telling
+A1,11,Teacher: No the equation 200 + 150 + 150 is correct - you need to revise the answer|EOM|,Telling
+A1,12,Teacher: 200 + 150 + 150 is 500 not 350|EOM|,Telling
+A1,13,Teacher: No the answer is $500 as $200 + $150 + $150 is $500|EOM|,Telling
+A1,14,Teacher: Hi Scott - talk me through your answer|EOM|,Generic
+A1,15,"Teacher: Lets try it from a different angel. Try $3,650 x 0.1 to calculate the interest|EOM|",Focus
+A1,16,Teacher: Slow down. What is 拢3650 x 0.1?|EOM|,Focus
+A1,17,Teacher: The intrest rate is over the five months. The total is 0.1 so it doesn't need multiplying by 5. The interest is $365 which then needs to be added to the amount borrowed before being dividing by the amount of months |EOM|,Telling
+A1,18,"Teacher: Hi DeAndre, tell me your answer |EOM|",Generic
+A1,19,Teacher: How did you get there?|EOM|,Probing
+A1,20,Teacher: You've gone too far with this one. It's only asking how mnay he started juggling with|EOM|,Focus
+A1,21,"Teacher: Yes, then adds 1 ball for each of the 4 weeks. |EOM|",Telling
+A1,22,Teacher: And finally drops 3 making the total..|EOM|,Telling
+A1,23,"Teacher: Hi Cody, talk me through your solution|EOM|Cody: Sure. I started by figuring out how much money Billy had left to spend on candy. He had $10, and if he spent half his change on gumballs, he had $5 left to spend on candy and gumballs. He spent $0.05 x 40 = $2 on gumballs, so he had $5 - $2 = $3 left to spend on candy. Then I divided $3 by $1.5 per pound to get 2 pounds of candy. So, Billy bought 2 pounds of candy.|EOM|",Generic
+A1,24,"Teacher: Okay - let's revisit this by starting with how much he spent on gumballs|EOM|Cody: Sure. Billy spent $0.05 x 40 = $2 on gumballs. Then I subtracted that from the $10 his father gave him, so he had $5 - $2 = $3 left to spend on candy. Then I divided $3 by $1.5 per pound to get 2 pounds of candy. So, Billy bought 2 pounds of candy.|EOM|",Focus
+A1,25,"Teacher: Slow down. He spents $2 on gumballs. You need to / this by 0.5 to calculate the change|EOM|Cody: Oh, okay. Billy spent $0.05 x 40 = $2 on gumballs. Then I divided that by 0.5 to get the change, which was $2/0.5 = $4. Then I subtracted that from the $10 his father gave him, so he had $10 - $4 = $6 left to spend on candy. Then I divided $6 by $1.5 per pound to get 4 pounds of candy. So, Billy bought 4 pounds of candy.",Telling
+A1,26,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,Focus
+A1,27,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,Probing
+A1,28,Teacher: We know that her husband bought 5 and she used 3 how many would this leave us |EOM|,Focus
+A1,29,Teacher: She used three of the 5 how many left|EOM|,Focus
+A1,30,"Teacher: She used 3 from 5 snd at the end at 12 left , can you work this out|EOM|",Probing
+A2,1,"Teacher: Hi Mariana, please talk me through your solution|EOM|",Generic
+A2,2,Teacher: Okay - you've overcomplicated this. Let's start again. We know Julia has 12 spoons when setting the table. We also know she used three whilst sampling her stew. How many is that altogether?|EOM|,Focus
+A2,3,"Teacher: No, you need to add as she still has the spoons, 3 have just been used|EOM|",Telling
+A2,4,"Teacher: Yes, that's it|EOM|",Generic
+A2,5,"Teacher: Hi Ayisha, please talk me through your solution|EOM|",Generic
+A2,6,"Teacher: Okay, let's start again. If each bid adds $50 to the price and there were 3 bids - how much is added to the overall cost?|EOM|",Focus
+A2,7,Teacher: Yes $150. Carmen adds a $50 bid after each of the three bids. How much more does this add to the cost?|EOM|,Focus
+A2,8,Teacher: 3 x 50 is 150. So it adds a further $150 making the total so far $300|EOM|,Telling
+A2,9,"Teacher: No, go back and check what we said. The 3 bids $150 + Carmen's Bid $150 + the opening bid $200|EOM|",Focus
+A2,10,Teacher: Check your calculation of $200 + $150 + $150 = $350. Your total is not correct|EOM|,Telling
+A2,11,Teacher: No the equation 200 + 150 + 150 is correct - you need to revise the answer|EOM|,Telling
+A2,12,Teacher: 200 + 150 + 150 is 500 not 350|EOM|,Telling
+A2,13,Teacher: No the answer is $500 as $200 + $150 + $150 is $500|EOM|,Telling
+A2,14,Teacher: Hi Scott - talk me through your answer|EOM|,Generic
+A2,15,"Teacher: Lets try it from a different angel. Try $3,650 x 0.1 to calculate the interest|EOM|",Focus
+A2,16,Teacher: Slow down. What is 拢3650 x 0.1?|EOM|,Focus
+A2,17,Teacher: The intrest rate is over the five months. The total is 0.1 so it doesn't need multiplying by 5. The interest is $365 which then needs to be added to the amount borrowed before being dividing by the amount of months |EOM|,Focus
+A2,18,"Teacher: Hi DeAndre, tell me your answer |EOM|",Generic
+A2,19,Teacher: How did you get there?|EOM|,Generic
+A2,20,Teacher: You've gone too far with this one. It's only asking how mnay he started juggling with|EOM|,Focus
+A2,21,"Teacher: Yes, then adds 1 ball for each of the 4 weeks. |EOM|",Focus
+A2,22,Teacher: And finally drops 3 making the total..|EOM|,Focus
+A2,23,"Teacher: Hi Cody, talk me through your solution|EOM|Cody: Sure. I started by figuring out how much money Billy had left to spend on candy. He had $10, and if he spent half his change on gumballs, he had $5 left to spend on candy and gumballs. He spent $0.05 x 40 = $2 on gumballs, so he had $5 - $2 = $3 left to spend on candy. Then I divided $3 by $1.5 per pound to get 2 pounds of candy. So, Billy bought 2 pounds of candy.|EOM|",Generic
+A2,25,"Teacher: Slow down. He spents $2 on gumballs. You need to / this by 0.5 to calculate the change|EOM|Cody: Oh, okay. Billy spent $0.05 x 40 = $2 on gumballs. Then I divided that by 0.5 to get the change, which was $2/0.5 = $4. Then I subtracted that from the $10 his father gave him, so he had $10 - $4 = $6 left to spend on candy. Then I divided $6 by $1.5 per pound to get 4 pounds of candy. So, Billy bought 4 pounds of candy.",Focus
+A2,26,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,Focus
+A2,27,Teacher: Would you like to recheck your answer as it is slightly incorrect and see if you can see where you went wrong|EOM|,Focus
+A2,28,Teacher: We know that her husband bought 5 and she used 3 how many would this leave us |EOM|,Focus
+A2,29,Teacher: She used three of the 5 how many left|EOM|,Focus
+A2,30,"Teacher: She used 3 from 5 snd at the end at 12 left , can you work this out|EOM|",Probing

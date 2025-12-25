@@ -1,0 +1,1381 @@
+"","Technique","model","category","accuracy","precision","recall","f1"
+"1","Active Prompting","GPT-3.5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"2","Active Prompting","GPT-3.5","amusement",0.333333333333333,0.5,0.333333333333333,0.4
+"3","Active Prompting","GPT-3.5","anger",0.333333333333333,0.5,0.333333333333333,0.4
+"4","Active Prompting","GPT-3.5","annoyance",0,0,0,NA
+"5","Active Prompting","GPT-3.5","approval",0,0,0,NA
+"6","Active Prompting","GPT-3.5","caring",0.2,1,0.2,0.333333333333333
+"7","Active Prompting","GPT-3.5","confusion",0.2,0.2,0.2,0.2
+"8","Active Prompting","GPT-3.5","curiosity",0,0,0,NA
+"9","Active Prompting","GPT-3.5","desire",0,NA,0,NA
+"10","Active Prompting","GPT-3.5","disappointment",0,0,0,NA
+"11","Active Prompting","GPT-3.5","disapproval",0,0,0,NA
+"12","Active Prompting","GPT-3.5","disgust",0.2,0.5,0.2,0.285714285714286
+"13","Active Prompting","GPT-3.5","embarrassment",0,NA,0,NA
+"14","Active Prompting","GPT-3.5","excitement",0.2,1,0.2,0.333333333333333
+"15","Active Prompting","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"16","Active Prompting","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"17","Active Prompting","GPT-3.5","grief",0,NA,0,NA
+"18","Active Prompting","GPT-3.5","joy",0.2,0.25,0.2,0.222222222222222
+"19","Active Prompting","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"20","Active Prompting","GPT-3.5","nervousness",0,NA,0,NA
+"21","Active Prompting","GPT-3.5","neutral",0,0,0,NA
+"22","Active Prompting","GPT-3.5","optimism",0,NA,0,NA
+"23","Active Prompting","GPT-3.5","pride",0,NA,0,NA
+"24","Active Prompting","GPT-3.5","realization",0,0,0,NA
+"25","Active Prompting","GPT-3.5","relief",0,NA,0,NA
+"26","Active Prompting","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"27","Active Prompting","GPT-3.5","sadness",0.4,0.4,0.4,0.4
+"28","Active Prompting","GPT-3.5","surprise",0.4,1,0.4,0.571428571428572
+"29","Active Prompting","GPT-3.5","multiclass",0.2,0.0454545454545455,0.8,0.0860215053763441
+"30","Active Prompting","GPT-5","admiration",0,NA,0,NA
+"31","Active Prompting","GPT-5","amusement",0.5,0.272727272727273,0.5,0.352941176470588
+"32","Active Prompting","GPT-5","anger",0,NA,0,NA
+"33","Active Prompting","GPT-5","annoyance",0,0,0,NA
+"34","Active Prompting","GPT-5","approval",0,0,0,NA
+"35","Active Prompting","GPT-5","caring",0.2,0.5,0.2,0.285714285714286
+"36","Active Prompting","GPT-5","confusion",0.2,0.5,0.2,0.285714285714286
+"37","Active Prompting","GPT-5","curiosity",0,0,0,NA
+"38","Active Prompting","GPT-5","desire",0,NA,0,NA
+"39","Active Prompting","GPT-5","disappointment",0,0,0,NA
+"40","Active Prompting","GPT-5","disapproval",0,0,0,NA
+"41","Active Prompting","GPT-5","disgust",0,NA,0,NA
+"42","Active Prompting","GPT-5","embarrassment",0,0,0,NA
+"43","Active Prompting","GPT-5","excitement",0.4,0.666666666666667,0.4,0.5
+"44","Active Prompting","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"45","Active Prompting","GPT-5","gratitude",0.4,0.666666666666667,0.4,0.5
+"46","Active Prompting","GPT-5","grief",0,NA,0,NA
+"47","Active Prompting","GPT-5","joy",0,NA,0,NA
+"48","Active Prompting","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"49","Active Prompting","GPT-5","nervousness",0,NA,0,NA
+"50","Active Prompting","GPT-5","neutral",0,0,0,NA
+"51","Active Prompting","GPT-5","optimism",0,0,0,NA
+"52","Active Prompting","GPT-5","pride",0,NA,0,NA
+"53","Active Prompting","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"54","Active Prompting","GPT-5","relief",0,NA,0,NA
+"55","Active Prompting","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"56","Active Prompting","GPT-5","sadness",0.4,1,0.4,0.571428571428572
+"57","Active Prompting","GPT-5","surprise",0.4,0.5,0.4,0.444444444444444
+"58","Active Prompting","GPT-5","multiclass",0,0.032967032967033,0.6,0.0625
+"59","Active Prompting_APO10","GPT-3.5","admiration",0.333333333333333,0.5,0.333333333333333,0.4
+"60","Active Prompting_APO10","GPT-3.5","amusement",0.333333333333333,0.333333333333333,0.333333333333333,0.333333333333333
+"61","Active Prompting_APO10","GPT-3.5","anger",0.166666666666667,0.5,0.166666666666667,0.25
+"62","Active Prompting_APO10","GPT-3.5","annoyance",0,0,0,NA
+"63","Active Prompting_APO10","GPT-3.5","approval",0,0,0,NA
+"64","Active Prompting_APO10","GPT-3.5","caring",0.2,0.5,0.2,0.285714285714286
+"65","Active Prompting_APO10","GPT-3.5","confusion",0.2,0.25,0.2,0.222222222222222
+"66","Active Prompting_APO10","GPT-3.5","curiosity",0,0,0,NA
+"67","Active Prompting_APO10","GPT-3.5","desire",0,NA,0,NA
+"68","Active Prompting_APO10","GPT-3.5","disappointment",0,0,0,NA
+"69","Active Prompting_APO10","GPT-3.5","disapproval",0,0,0,NA
+"70","Active Prompting_APO10","GPT-3.5","disgust",0.2,0.25,0.2,0.222222222222222
+"71","Active Prompting_APO10","GPT-3.5","embarrassment",0,NA,0,NA
+"72","Active Prompting_APO10","GPT-3.5","excitement",0.2,1,0.2,0.333333333333333
+"73","Active Prompting_APO10","GPT-3.5","fear",0,0,0,NA
+"74","Active Prompting_APO10","GPT-3.5","gratitude",0.4,1,0.4,0.571428571428572
+"75","Active Prompting_APO10","GPT-3.5","grief",0,NA,0,NA
+"76","Active Prompting_APO10","GPT-3.5","joy",0.2,0.2,0.2,0.2
+"77","Active Prompting_APO10","GPT-3.5","love",0.2,1,0.2,0.333333333333333
+"78","Active Prompting_APO10","GPT-3.5","nervousness",0,NA,0,NA
+"79","Active Prompting_APO10","GPT-3.5","neutral",0.2,0.25,0.2,0.222222222222222
+"80","Active Prompting_APO10","GPT-3.5","optimism",0,0,0,NA
+"81","Active Prompting_APO10","GPT-3.5","pride",0,NA,0,NA
+"82","Active Prompting_APO10","GPT-3.5","realization",0,0,0,NA
+"83","Active Prompting_APO10","GPT-3.5","relief",0,NA,0,NA
+"84","Active Prompting_APO10","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"85","Active Prompting_APO10","GPT-3.5","sadness",0.4,0.5,0.4,0.444444444444444
+"86","Active Prompting_APO10","GPT-3.5","surprise",0.2,1,0.2,0.333333333333333
+"87","Active Prompting_APO10","GPT-3.5","multiclass",0.2,0.0568181818181818,1,0.10752688172043
+"88","Active Prompting_APO10","GPT-5","admiration",0,0,0,NA
+"89","Active Prompting_APO10","GPT-5","amusement",0.5,0.333333333333333,0.5,0.4
+"90","Active Prompting_APO10","GPT-5","anger",0,NA,0,NA
+"91","Active Prompting_APO10","GPT-5","annoyance",0,0,0,NA
+"92","Active Prompting_APO10","GPT-5","approval",0,0,0,NA
+"93","Active Prompting_APO10","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"94","Active Prompting_APO10","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"95","Active Prompting_APO10","GPT-5","curiosity",0,0,0,NA
+"96","Active Prompting_APO10","GPT-5","desire",0.2,1,0.2,0.333333333333333
+"97","Active Prompting_APO10","GPT-5","disappointment",0,0,0,NA
+"98","Active Prompting_APO10","GPT-5","disapproval",0,0,0,NA
+"99","Active Prompting_APO10","GPT-5","disgust",0,0,0,NA
+"100","Active Prompting_APO10","GPT-5","embarrassment",0,NA,0,NA
+"101","Active Prompting_APO10","GPT-5","excitement",0.4,0.666666666666667,0.4,0.5
+"102","Active Prompting_APO10","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"103","Active Prompting_APO10","GPT-5","gratitude",0.6,0.75,0.6,0.666666666666667
+"104","Active Prompting_APO10","GPT-5","grief",0,NA,0,NA
+"105","Active Prompting_APO10","GPT-5","joy",0,NA,0,NA
+"106","Active Prompting_APO10","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"107","Active Prompting_APO10","GPT-5","nervousness",0,NA,0,NA
+"108","Active Prompting_APO10","GPT-5","neutral",0,0,0,NA
+"109","Active Prompting_APO10","GPT-5","optimism",0.2,0.5,0.2,0.285714285714286
+"110","Active Prompting_APO10","GPT-5","pride",0,NA,0,NA
+"111","Active Prompting_APO10","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"112","Active Prompting_APO10","GPT-5","relief",0,NA,0,NA
+"113","Active Prompting_APO10","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"114","Active Prompting_APO10","GPT-5","sadness",0.4,1,0.4,0.571428571428572
+"115","Active Prompting_APO10","GPT-5","surprise",0.2,0.333333333333333,0.2,0.25
+"116","Active Prompting_APO10","GPT-5","multiclass",0,0.032967032967033,0.6,0.0625
+"117","Active Prompting_APO20","GPT-3.5","admiration",0.333333333333333,0.5,0.333333333333333,0.4
+"118","Active Prompting_APO20","GPT-3.5","amusement",0.333333333333333,0.4,0.333333333333333,0.363636363636364
+"119","Active Prompting_APO20","GPT-3.5","anger",0.333333333333333,0.5,0.333333333333333,0.4
+"120","Active Prompting_APO20","GPT-3.5","annoyance",0,0,0,NA
+"121","Active Prompting_APO20","GPT-3.5","approval",0,0,0,NA
+"122","Active Prompting_APO20","GPT-3.5","caring",0.2,0.5,0.2,0.285714285714286
+"123","Active Prompting_APO20","GPT-3.5","confusion",0.2,0.333333333333333,0.2,0.25
+"124","Active Prompting_APO20","GPT-3.5","curiosity",0.2,0.333333333333333,0.2,0.25
+"125","Active Prompting_APO20","GPT-3.5","desire",0,NA,0,NA
+"126","Active Prompting_APO20","GPT-3.5","disappointment",0,0,0,NA
+"127","Active Prompting_APO20","GPT-3.5","disapproval",0.2,0.2,0.2,0.2
+"128","Active Prompting_APO20","GPT-3.5","disgust",0.2,0.5,0.2,0.285714285714286
+"129","Active Prompting_APO20","GPT-3.5","embarrassment",0,NA,0,NA
+"130","Active Prompting_APO20","GPT-3.5","excitement",0.4,1,0.4,0.571428571428572
+"131","Active Prompting_APO20","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"132","Active Prompting_APO20","GPT-3.5","gratitude",0.6,0.75,0.6,0.666666666666667
+"133","Active Prompting_APO20","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"134","Active Prompting_APO20","GPT-3.5","joy",0.2,0.2,0.2,0.2
+"135","Active Prompting_APO20","GPT-3.5","love",0,NA,0,NA
+"136","Active Prompting_APO20","GPT-3.5","nervousness",0,NA,0,NA
+"137","Active Prompting_APO20","GPT-3.5","neutral",0,0,0,NA
+"138","Active Prompting_APO20","GPT-3.5","optimism",0,0,0,NA
+"139","Active Prompting_APO20","GPT-3.5","pride",0,NA,0,NA
+"140","Active Prompting_APO20","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"141","Active Prompting_APO20","GPT-3.5","relief",0,NA,0,NA
+"142","Active Prompting_APO20","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"143","Active Prompting_APO20","GPT-3.5","sadness",0.6,0.5,0.6,0.545454545454545
+"144","Active Prompting_APO20","GPT-3.5","surprise",0.2,1,0.2,0.333333333333333
+"145","Active Prompting_APO20","GPT-3.5","multiclass",0.2,0.0588235294117647,1,0.111111111111111
+"146","Active Prompting_APO20","GPT-5","admiration",0,NA,0,NA
+"147","Active Prompting_APO20","GPT-5","amusement",0.5,0.272727272727273,0.5,0.352941176470588
+"148","Active Prompting_APO20","GPT-5","anger",0,NA,0,NA
+"149","Active Prompting_APO20","GPT-5","annoyance",0,0,0,NA
+"150","Active Prompting_APO20","GPT-5","approval",0,0,0,NA
+"151","Active Prompting_APO20","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"152","Active Prompting_APO20","GPT-5","confusion",0.2,1,0.2,0.333333333333333
+"153","Active Prompting_APO20","GPT-5","curiosity",0,0,0,NA
+"154","Active Prompting_APO20","GPT-5","desire",0.2,1,0.2,0.333333333333333
+"155","Active Prompting_APO20","GPT-5","disappointment",0,0,0,NA
+"156","Active Prompting_APO20","GPT-5","disapproval",0,0,0,NA
+"157","Active Prompting_APO20","GPT-5","disgust",0.2,0.5,0.2,0.285714285714286
+"158","Active Prompting_APO20","GPT-5","embarrassment",0,0,0,NA
+"159","Active Prompting_APO20","GPT-5","excitement",0.4,1,0.4,0.571428571428572
+"160","Active Prompting_APO20","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"161","Active Prompting_APO20","GPT-5","gratitude",0.4,0.666666666666667,0.4,0.5
+"162","Active Prompting_APO20","GPT-5","grief",0,NA,0,NA
+"163","Active Prompting_APO20","GPT-5","joy",0,NA,0,NA
+"164","Active Prompting_APO20","GPT-5","love",0.2,0.333333333333333,0.2,0.25
+"165","Active Prompting_APO20","GPT-5","nervousness",0,NA,0,NA
+"166","Active Prompting_APO20","GPT-5","neutral",0,0,0,NA
+"167","Active Prompting_APO20","GPT-5","optimism",0,0,0,NA
+"168","Active Prompting_APO20","GPT-5","pride",0,NA,0,NA
+"169","Active Prompting_APO20","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"170","Active Prompting_APO20","GPT-5","relief",0,NA,0,NA
+"171","Active Prompting_APO20","GPT-5","remorse",0,NA,0,NA
+"172","Active Prompting_APO20","GPT-5","sadness",0.6,1,0.6,0.75
+"173","Active Prompting_APO20","GPT-5","surprise",0.6,0.6,0.6,0.6
+"174","Active Prompting_APO20","GPT-5","multiclass",0,0.0123456790123457,0.2,0.0232558139534884
+"175","Active Prompting_APO50","GPT-3.5","admiration",0.166666666666667,0.333333333333333,0.166666666666667,0.222222222222222
+"176","Active Prompting_APO50","GPT-3.5","amusement",0.333333333333333,0.4,0.333333333333333,0.363636363636364
+"177","Active Prompting_APO50","GPT-3.5","anger",0.166666666666667,0.333333333333333,0.166666666666667,0.222222222222222
+"178","Active Prompting_APO50","GPT-3.5","annoyance",0,0,0,NA
+"179","Active Prompting_APO50","GPT-3.5","approval",0,0,0,NA
+"180","Active Prompting_APO50","GPT-3.5","caring",0.4,0.666666666666667,0.4,0.5
+"181","Active Prompting_APO50","GPT-3.5","confusion",0.2,0.2,0.2,0.2
+"182","Active Prompting_APO50","GPT-3.5","curiosity",0,0,0,NA
+"183","Active Prompting_APO50","GPT-3.5","desire",0,NA,0,NA
+"184","Active Prompting_APO50","GPT-3.5","disappointment",0,0,0,NA
+"185","Active Prompting_APO50","GPT-3.5","disapproval",0,0,0,NA
+"186","Active Prompting_APO50","GPT-3.5","disgust",0,NA,0,NA
+"187","Active Prompting_APO50","GPT-3.5","embarrassment",0,NA,0,NA
+"188","Active Prompting_APO50","GPT-3.5","excitement",0.2,1,0.2,0.333333333333333
+"189","Active Prompting_APO50","GPT-3.5","fear",0,0,0,NA
+"190","Active Prompting_APO50","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"191","Active Prompting_APO50","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"192","Active Prompting_APO50","GPT-3.5","joy",0.2,0.333333333333333,0.2,0.25
+"193","Active Prompting_APO50","GPT-3.5","love",0,0,0,NA
+"194","Active Prompting_APO50","GPT-3.5","nervousness",0,NA,0,NA
+"195","Active Prompting_APO50","GPT-3.5","neutral",0,0,0,NA
+"196","Active Prompting_APO50","GPT-3.5","optimism",0,NA,0,NA
+"197","Active Prompting_APO50","GPT-3.5","pride",0,NA,0,NA
+"198","Active Prompting_APO50","GPT-3.5","realization",0,NA,0,NA
+"199","Active Prompting_APO50","GPT-3.5","relief",0,NA,0,NA
+"200","Active Prompting_APO50","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"201","Active Prompting_APO50","GPT-3.5","sadness",0.4,0.333333333333333,0.4,0.363636363636364
+"202","Active Prompting_APO50","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"203","Active Prompting_APO50","GPT-3.5","multiclass",0.2,0.0444444444444444,0.8,0.0842105263157895
+"204","Active Prompting_APO50","GPT-5","admiration",0.166666666666667,0.5,0.166666666666667,0.25
+"205","Active Prompting_APO50","GPT-5","amusement",0.5,0.3,0.5,0.375
+"206","Active Prompting_APO50","GPT-5","anger",0,NA,0,NA
+"207","Active Prompting_APO50","GPT-5","annoyance",0,0,0,NA
+"208","Active Prompting_APO50","GPT-5","approval",0,0,0,NA
+"209","Active Prompting_APO50","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"210","Active Prompting_APO50","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"211","Active Prompting_APO50","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"212","Active Prompting_APO50","GPT-5","desire",0.2,1,0.2,0.333333333333333
+"213","Active Prompting_APO50","GPT-5","disappointment",0.2,0.5,0.2,0.285714285714286
+"214","Active Prompting_APO50","GPT-5","disapproval",0,0,0,NA
+"215","Active Prompting_APO50","GPT-5","disgust",0.2,0.5,0.2,0.285714285714286
+"216","Active Prompting_APO50","GPT-5","embarrassment",0,NA,0,NA
+"217","Active Prompting_APO50","GPT-5","excitement",0.4,1,0.4,0.571428571428572
+"218","Active Prompting_APO50","GPT-5","fear",0.2,0.333333333333333,0.2,0.25
+"219","Active Prompting_APO50","GPT-5","gratitude",0.4,0.666666666666667,0.4,0.5
+"220","Active Prompting_APO50","GPT-5","grief",0,NA,0,NA
+"221","Active Prompting_APO50","GPT-5","joy",0,NA,0,NA
+"222","Active Prompting_APO50","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"223","Active Prompting_APO50","GPT-5","nervousness",0,NA,0,NA
+"224","Active Prompting_APO50","GPT-5","neutral",0,0,0,NA
+"225","Active Prompting_APO50","GPT-5","optimism",0.2,0.25,0.2,0.222222222222222
+"226","Active Prompting_APO50","GPT-5","pride",0,NA,0,NA
+"227","Active Prompting_APO50","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"228","Active Prompting_APO50","GPT-5","relief",0,NA,0,NA
+"229","Active Prompting_APO50","GPT-5","remorse",0,NA,0,NA
+"230","Active Prompting_APO50","GPT-5","sadness",0.6,1,0.6,0.75
+"231","Active Prompting_APO50","GPT-5","surprise",0.2,0.25,0.2,0.222222222222222
+"232","Active Prompting_APO50","GPT-5","multiclass",0,0.0365853658536585,0.6,0.0689655172413793
+"233","Auto-CoT","GPT-3.5","admiration",0.5,0.272727272727273,0.5,0.352941176470588
+"234","Auto-CoT","GPT-3.5","amusement",0.5,0.166666666666667,0.5,0.25
+"235","Auto-CoT","GPT-3.5","anger",0.5,0.428571428571429,0.5,0.461538461538462
+"236","Auto-CoT","GPT-3.5","annoyance",0.166666666666667,0.0625,0.166666666666667,0.0909090909090909
+"237","Auto-CoT","GPT-3.5","approval",0,0,0,NA
+"238","Auto-CoT","GPT-3.5","caring",0,0,0,NA
+"239","Auto-CoT","GPT-3.5","confusion",0.2,0.166666666666667,0.2,0.181818181818182
+"240","Auto-CoT","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"241","Auto-CoT","GPT-3.5","desire",0,NA,0,NA
+"242","Auto-CoT","GPT-3.5","disappointment",0.2,0.2,0.2,0.2
+"243","Auto-CoT","GPT-3.5","disapproval",0.6,0.15,0.6,0.24
+"244","Auto-CoT","GPT-3.5","disgust",0.4,0.222222222222222,0.4,0.285714285714286
+"245","Auto-CoT","GPT-3.5","embarrassment",0,0,0,NA
+"246","Auto-CoT","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"247","Auto-CoT","GPT-3.5","fear",0,0,0,NA
+"248","Auto-CoT","GPT-3.5","gratitude",0.8,1,0.8,0.888888888888889
+"249","Auto-CoT","GPT-3.5","grief",0,NA,0,NA
+"250","Auto-CoT","GPT-3.5","joy",0.2,0.5,0.2,0.285714285714286
+"251","Auto-CoT","GPT-3.5","love",0.4,0.666666666666667,0.4,0.5
+"252","Auto-CoT","GPT-3.5","nervousness",0,NA,0,NA
+"253","Auto-CoT","GPT-3.5","neutral",0,0,0,NA
+"254","Auto-CoT","GPT-3.5","optimism",0.2,0.25,0.2,0.222222222222222
+"255","Auto-CoT","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"256","Auto-CoT","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"257","Auto-CoT","GPT-3.5","relief",0,NA,0,NA
+"258","Auto-CoT","GPT-3.5","remorse",0.4,1,0.4,0.571428571428572
+"259","Auto-CoT","GPT-3.5","sadness",0.6,0.333333333333333,0.6,0.428571428571429
+"260","Auto-CoT","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"261","Auto-CoT","GPT-3.5","multiclass",0,0,0,NA
+"262","Auto-CoT","GPT-5","admiration",0.333333333333333,1,0.333333333333333,0.5
+"263","Auto-CoT","GPT-5","amusement",0.666666666666667,0.307692307692308,0.666666666666667,0.421052631578947
+"264","Auto-CoT","GPT-5","anger",0,NA,0,NA
+"265","Auto-CoT","GPT-5","annoyance",0,0,0,NA
+"266","Auto-CoT","GPT-5","approval",0,0,0,NA
+"267","Auto-CoT","GPT-5","caring",0.2,0.333333333333333,0.2,0.25
+"268","Auto-CoT","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"269","Auto-CoT","GPT-5","curiosity",0.2,0.25,0.2,0.222222222222222
+"270","Auto-CoT","GPT-5","desire",0.2,1,0.2,0.333333333333333
+"271","Auto-CoT","GPT-5","disappointment",0,0,0,NA
+"272","Auto-CoT","GPT-5","disapproval",0,0,0,NA
+"273","Auto-CoT","GPT-5","disgust",0.2,0.5,0.2,0.285714285714286
+"274","Auto-CoT","GPT-5","embarrassment",0,0,0,NA
+"275","Auto-CoT","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"276","Auto-CoT","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"277","Auto-CoT","GPT-5","gratitude",0.4,0.5,0.4,0.444444444444444
+"278","Auto-CoT","GPT-5","grief",0,NA,0,NA
+"279","Auto-CoT","GPT-5","joy",0,NA,0,NA
+"280","Auto-CoT","GPT-5","love",0.2,0.333333333333333,0.2,0.25
+"281","Auto-CoT","GPT-5","nervousness",0,NA,0,NA
+"282","Auto-CoT","GPT-5","neutral",0,0,0,NA
+"283","Auto-CoT","GPT-5","optimism",0,0,0,NA
+"284","Auto-CoT","GPT-5","pride",0,NA,0,NA
+"285","Auto-CoT","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"286","Auto-CoT","GPT-5","relief",0,NA,0,NA
+"287","Auto-CoT","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"288","Auto-CoT","GPT-5","sadness",0.6,0.75,0.6,0.666666666666667
+"289","Auto-CoT","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"290","Auto-CoT","GPT-5","multiclass",0,0.0408163265306122,0.4,0.0740740740740741
+"291","Auto-CoT_APO10","GPT-3.5","admiration",0.5,0.272727272727273,0.5,0.352941176470588
+"292","Auto-CoT_APO10","GPT-3.5","amusement",0.5,0.157894736842105,0.5,0.24
+"293","Auto-CoT_APO10","GPT-3.5","anger",0.5,0.428571428571429,0.5,0.461538461538462
+"294","Auto-CoT_APO10","GPT-3.5","annoyance",0.166666666666667,0.0714285714285714,0.166666666666667,0.1
+"295","Auto-CoT_APO10","GPT-3.5","approval",0,0,0,NA
+"296","Auto-CoT_APO10","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"297","Auto-CoT_APO10","GPT-3.5","confusion",0.2,0.166666666666667,0.2,0.181818181818182
+"298","Auto-CoT_APO10","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"299","Auto-CoT_APO10","GPT-3.5","desire",0,NA,0,NA
+"300","Auto-CoT_APO10","GPT-3.5","disappointment",0.2,0.2,0.2,0.2
+"301","Auto-CoT_APO10","GPT-3.5","disapproval",0.6,0.15,0.6,0.24
+"302","Auto-CoT_APO10","GPT-3.5","disgust",0.4,0.2,0.4,0.266666666666667
+"303","Auto-CoT_APO10","GPT-3.5","embarrassment",0,0,0,NA
+"304","Auto-CoT_APO10","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"305","Auto-CoT_APO10","GPT-3.5","fear",0,0,0,NA
+"306","Auto-CoT_APO10","GPT-3.5","gratitude",0.8,1,0.8,0.888888888888889
+"307","Auto-CoT_APO10","GPT-3.5","grief",0,NA,0,NA
+"308","Auto-CoT_APO10","GPT-3.5","joy",0.2,0.5,0.2,0.285714285714286
+"309","Auto-CoT_APO10","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"310","Auto-CoT_APO10","GPT-3.5","nervousness",0,NA,0,NA
+"311","Auto-CoT_APO10","GPT-3.5","neutral",0,0,0,NA
+"312","Auto-CoT_APO10","GPT-3.5","optimism",0.2,0.25,0.2,0.222222222222222
+"313","Auto-CoT_APO10","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"314","Auto-CoT_APO10","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"315","Auto-CoT_APO10","GPT-3.5","relief",0,NA,0,NA
+"316","Auto-CoT_APO10","GPT-3.5","remorse",0.4,1,0.4,0.571428571428572
+"317","Auto-CoT_APO10","GPT-3.5","sadness",0.6,0.333333333333333,0.6,0.428571428571429
+"318","Auto-CoT_APO10","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"319","Auto-CoT_APO10","GPT-3.5","multiclass",0,0,0,NA
+"320","Auto-CoT_APO10","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"321","Auto-CoT_APO10","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"322","Auto-CoT_APO10","GPT-5","anger",0.166666666666667,1,0.166666666666667,0.285714285714286
+"323","Auto-CoT_APO10","GPT-5","annoyance",0.166666666666667,0.125,0.166666666666667,0.142857142857143
+"324","Auto-CoT_APO10","GPT-5","approval",0,0,0,NA
+"325","Auto-CoT_APO10","GPT-5","caring",0.2,0.5,0.2,0.285714285714286
+"326","Auto-CoT_APO10","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"327","Auto-CoT_APO10","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"328","Auto-CoT_APO10","GPT-5","desire",0.2,1,0.2,0.333333333333333
+"329","Auto-CoT_APO10","GPT-5","disappointment",0,0,0,NA
+"330","Auto-CoT_APO10","GPT-5","disapproval",0.4,0.125,0.4,0.19047619047619
+"331","Auto-CoT_APO10","GPT-5","disgust",0.2,0.5,0.2,0.285714285714286
+"332","Auto-CoT_APO10","GPT-5","embarrassment",0,0,0,NA
+"333","Auto-CoT_APO10","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"334","Auto-CoT_APO10","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"335","Auto-CoT_APO10","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"336","Auto-CoT_APO10","GPT-5","grief",0,NA,0,NA
+"337","Auto-CoT_APO10","GPT-5","joy",0,NA,0,NA
+"338","Auto-CoT_APO10","GPT-5","love",0.2,0.5,0.2,0.285714285714286
+"339","Auto-CoT_APO10","GPT-5","nervousness",0,NA,0,NA
+"340","Auto-CoT_APO10","GPT-5","neutral",0,0,0,NA
+"341","Auto-CoT_APO10","GPT-5","optimism",0,0,0,NA
+"342","Auto-CoT_APO10","GPT-5","pride",0,NA,0,NA
+"343","Auto-CoT_APO10","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"344","Auto-CoT_APO10","GPT-5","relief",0,NA,0,NA
+"345","Auto-CoT_APO10","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"346","Auto-CoT_APO10","GPT-5","sadness",0.6,1,0.6,0.75
+"347","Auto-CoT_APO10","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"348","Auto-CoT_APO10","GPT-5","multiclass",0,0.0208333333333333,0.2,0.0377358490566038
+"349","Auto-CoT_APO20","GPT-3.5","admiration",0.5,0.272727272727273,0.5,0.352941176470588
+"350","Auto-CoT_APO20","GPT-3.5","amusement",0.5,0.157894736842105,0.5,0.24
+"351","Auto-CoT_APO20","GPT-3.5","anger",0.5,0.428571428571429,0.5,0.461538461538462
+"352","Auto-CoT_APO20","GPT-3.5","annoyance",0.166666666666667,0.0625,0.166666666666667,0.0909090909090909
+"353","Auto-CoT_APO20","GPT-3.5","approval",0,0,0,NA
+"354","Auto-CoT_APO20","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"355","Auto-CoT_APO20","GPT-3.5","confusion",0.2,0.125,0.2,0.153846153846154
+"356","Auto-CoT_APO20","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"357","Auto-CoT_APO20","GPT-3.5","desire",0,NA,0,NA
+"358","Auto-CoT_APO20","GPT-3.5","disappointment",0.2,0.2,0.2,0.2
+"359","Auto-CoT_APO20","GPT-3.5","disapproval",0.6,0.15,0.6,0.24
+"360","Auto-CoT_APO20","GPT-3.5","disgust",0.4,0.2,0.4,0.266666666666667
+"361","Auto-CoT_APO20","GPT-3.5","embarrassment",0,0,0,NA
+"362","Auto-CoT_APO20","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"363","Auto-CoT_APO20","GPT-3.5","fear",0,0,0,NA
+"364","Auto-CoT_APO20","GPT-3.5","gratitude",0.8,1,0.8,0.888888888888889
+"365","Auto-CoT_APO20","GPT-3.5","grief",0,NA,0,NA
+"366","Auto-CoT_APO20","GPT-3.5","joy",0.2,0.5,0.2,0.285714285714286
+"367","Auto-CoT_APO20","GPT-3.5","love",0.4,0.666666666666667,0.4,0.5
+"368","Auto-CoT_APO20","GPT-3.5","nervousness",0,NA,0,NA
+"369","Auto-CoT_APO20","GPT-3.5","neutral",0,0,0,NA
+"370","Auto-CoT_APO20","GPT-3.5","optimism",0.2,0.25,0.2,0.222222222222222
+"371","Auto-CoT_APO20","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"372","Auto-CoT_APO20","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"373","Auto-CoT_APO20","GPT-3.5","relief",0,NA,0,NA
+"374","Auto-CoT_APO20","GPT-3.5","remorse",0.4,1,0.4,0.571428571428572
+"375","Auto-CoT_APO20","GPT-3.5","sadness",0.6,0.333333333333333,0.6,0.428571428571429
+"376","Auto-CoT_APO20","GPT-3.5","surprise",0.4,1,0.4,0.571428571428572
+"377","Auto-CoT_APO20","GPT-3.5","multiclass",0,0,0,NA
+"378","Auto-CoT_APO20","GPT-5","admiration",0.333333333333333,1,0.333333333333333,0.5
+"379","Auto-CoT_APO20","GPT-5","amusement",0.5,0.214285714285714,0.5,0.3
+"380","Auto-CoT_APO20","GPT-5","anger",0.166666666666667,1,0.166666666666667,0.285714285714286
+"381","Auto-CoT_APO20","GPT-5","annoyance",0,0,0,NA
+"382","Auto-CoT_APO20","GPT-5","approval",0,0,0,NA
+"383","Auto-CoT_APO20","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"384","Auto-CoT_APO20","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"385","Auto-CoT_APO20","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"386","Auto-CoT_APO20","GPT-5","desire",0,NA,0,NA
+"387","Auto-CoT_APO20","GPT-5","disappointment",0,0,0,NA
+"388","Auto-CoT_APO20","GPT-5","disapproval",0.2,0.0588235294117647,0.2,0.0909090909090909
+"389","Auto-CoT_APO20","GPT-5","disgust",0,0,0,NA
+"390","Auto-CoT_APO20","GPT-5","embarrassment",0,0,0,NA
+"391","Auto-CoT_APO20","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"392","Auto-CoT_APO20","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"393","Auto-CoT_APO20","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"394","Auto-CoT_APO20","GPT-5","grief",0,NA,0,NA
+"395","Auto-CoT_APO20","GPT-5","joy",0,NA,0,NA
+"396","Auto-CoT_APO20","GPT-5","love",0.2,1,0.2,0.333333333333333
+"397","Auto-CoT_APO20","GPT-5","nervousness",0,NA,0,NA
+"398","Auto-CoT_APO20","GPT-5","neutral",0.2,0.0666666666666667,0.2,0.1
+"399","Auto-CoT_APO20","GPT-5","optimism",0.2,0.333333333333333,0.2,0.25
+"400","Auto-CoT_APO20","GPT-5","pride",0,NA,0,NA
+"401","Auto-CoT_APO20","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"402","Auto-CoT_APO20","GPT-5","relief",0,NA,0,NA
+"403","Auto-CoT_APO20","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"404","Auto-CoT_APO20","GPT-5","sadness",0.6,0.75,0.6,0.666666666666667
+"405","Auto-CoT_APO20","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"406","Auto-CoT_APO20","GPT-5","multiclass",0,0.0408163265306122,0.4,0.0740740740740741
+"407","Auto-CoT_APO50","GPT-3.5","admiration",0.5,0.3,0.5,0.375
+"408","Auto-CoT_APO50","GPT-3.5","amusement",0.5,0.157894736842105,0.5,0.24
+"409","Auto-CoT_APO50","GPT-3.5","anger",0.5,0.5,0.5,0.5
+"410","Auto-CoT_APO50","GPT-3.5","annoyance",0.166666666666667,0.0666666666666667,0.166666666666667,0.0952380952380952
+"411","Auto-CoT_APO50","GPT-3.5","approval",0,0,0,NA
+"412","Auto-CoT_APO50","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"413","Auto-CoT_APO50","GPT-3.5","confusion",0.2,0.142857142857143,0.2,0.166666666666667
+"414","Auto-CoT_APO50","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"415","Auto-CoT_APO50","GPT-3.5","desire",0,NA,0,NA
+"416","Auto-CoT_APO50","GPT-3.5","disappointment",0.2,0.2,0.2,0.2
+"417","Auto-CoT_APO50","GPT-3.5","disapproval",0.6,0.142857142857143,0.6,0.230769230769231
+"418","Auto-CoT_APO50","GPT-3.5","disgust",0.4,0.2,0.4,0.266666666666667
+"419","Auto-CoT_APO50","GPT-3.5","embarrassment",0,0,0,NA
+"420","Auto-CoT_APO50","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"421","Auto-CoT_APO50","GPT-3.5","fear",0,0,0,NA
+"422","Auto-CoT_APO50","GPT-3.5","gratitude",0.8,1,0.8,0.888888888888889
+"423","Auto-CoT_APO50","GPT-3.5","grief",0,NA,0,NA
+"424","Auto-CoT_APO50","GPT-3.5","joy",0.2,0.5,0.2,0.285714285714286
+"425","Auto-CoT_APO50","GPT-3.5","love",0.4,0.666666666666667,0.4,0.5
+"426","Auto-CoT_APO50","GPT-3.5","nervousness",0,NA,0,NA
+"427","Auto-CoT_APO50","GPT-3.5","neutral",0,0,0,NA
+"428","Auto-CoT_APO50","GPT-3.5","optimism",0.2,0.25,0.2,0.222222222222222
+"429","Auto-CoT_APO50","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"430","Auto-CoT_APO50","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"431","Auto-CoT_APO50","GPT-3.5","relief",0,NA,0,NA
+"432","Auto-CoT_APO50","GPT-3.5","remorse",0.4,1,0.4,0.571428571428572
+"433","Auto-CoT_APO50","GPT-3.5","sadness",0.6,0.333333333333333,0.6,0.428571428571429
+"434","Auto-CoT_APO50","GPT-3.5","surprise",0.4,1,0.4,0.571428571428572
+"435","Auto-CoT_APO50","GPT-3.5","multiclass",0,0,0,NA
+"436","Auto-CoT_APO50","GPT-5","admiration",0.333333333333333,1,0.333333333333333,0.5
+"437","Auto-CoT_APO50","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"438","Auto-CoT_APO50","GPT-5","anger",0,NA,0,NA
+"439","Auto-CoT_APO50","GPT-5","annoyance",0,0,0,NA
+"440","Auto-CoT_APO50","GPT-5","approval",0,0,0,NA
+"441","Auto-CoT_APO50","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"442","Auto-CoT_APO50","GPT-5","confusion",0.2,0.25,0.2,0.222222222222222
+"443","Auto-CoT_APO50","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"444","Auto-CoT_APO50","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"445","Auto-CoT_APO50","GPT-5","disappointment",0,0,0,NA
+"446","Auto-CoT_APO50","GPT-5","disapproval",0,0,0,NA
+"447","Auto-CoT_APO50","GPT-5","disgust",0.2,0.333333333333333,0.2,0.25
+"448","Auto-CoT_APO50","GPT-5","embarrassment",0,0,0,NA
+"449","Auto-CoT_APO50","GPT-5","excitement",0.2,0.333333333333333,0.2,0.25
+"450","Auto-CoT_APO50","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"451","Auto-CoT_APO50","GPT-5","gratitude",0.4,0.5,0.4,0.444444444444444
+"452","Auto-CoT_APO50","GPT-5","grief",0,NA,0,NA
+"453","Auto-CoT_APO50","GPT-5","joy",0,NA,0,NA
+"454","Auto-CoT_APO50","GPT-5","love",0.2,0.5,0.2,0.285714285714286
+"455","Auto-CoT_APO50","GPT-5","nervousness",0,NA,0,NA
+"456","Auto-CoT_APO50","GPT-5","neutral",0,0,0,NA
+"457","Auto-CoT_APO50","GPT-5","optimism",0,0,0,NA
+"458","Auto-CoT_APO50","GPT-5","pride",0,NA,0,NA
+"459","Auto-CoT_APO50","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"460","Auto-CoT_APO50","GPT-5","relief",0,NA,0,NA
+"461","Auto-CoT_APO50","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"462","Auto-CoT_APO50","GPT-5","sadness",0.6,0.6,0.6,0.6
+"463","Auto-CoT_APO50","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"464","Auto-CoT_APO50","GPT-5","multiclass",0,0.0434782608695652,0.4,0.0784313725490196
+"465","DSPy_100","GPT-3.5","admiration",0,NA,0,NA
+"466","DSPy_100","GPT-3.5","amusement",0.333333333333333,0.153846153846154,0.333333333333333,0.210526315789474
+"467","DSPy_100","GPT-3.5","anger",0.166666666666667,0.5,0.166666666666667,0.25
+"468","DSPy_100","GPT-3.5","annoyance",0,0,0,NA
+"469","DSPy_100","GPT-3.5","approval",0,0,0,NA
+"470","DSPy_100","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"471","DSPy_100","GPT-3.5","confusion",0.6,0.375,0.6,0.461538461538462
+"472","DSPy_100","GPT-3.5","curiosity",0.2,0.5,0.2,0.285714285714286
+"473","DSPy_100","GPT-3.5","desire",0,NA,0,NA
+"474","DSPy_100","GPT-3.5","disappointment",0.2,0.333333333333333,0.2,0.25
+"475","DSPy_100","GPT-3.5","disapproval",0.2,0.142857142857143,0.2,0.166666666666667
+"476","DSPy_100","GPT-3.5","disgust",0.2,0.5,0.2,0.285714285714286
+"477","DSPy_100","GPT-3.5","embarrassment",0,0,0,NA
+"478","DSPy_100","GPT-3.5","excitement",0.2,1,0.2,0.333333333333333
+"479","DSPy_100","GPT-3.5","fear",0,0,0,NA
+"480","DSPy_100","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"481","DSPy_100","GPT-3.5","grief",0,NA,0,NA
+"482","DSPy_100","GPT-3.5","joy",0,NA,0,NA
+"483","DSPy_100","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"484","DSPy_100","GPT-3.5","nervousness",0,NA,0,NA
+"485","DSPy_100","GPT-3.5","neutral",0,0,0,NA
+"486","DSPy_100","GPT-3.5","optimism",0,0,0,NA
+"487","DSPy_100","GPT-3.5","pride",0,NA,0,NA
+"488","DSPy_100","GPT-3.5","realization",0,NA,0,NA
+"489","DSPy_100","GPT-3.5","relief",0,NA,0,NA
+"490","DSPy_100","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"491","DSPy_100","GPT-3.5","sadness",0.4,0.5,0.4,0.444444444444444
+"492","DSPy_100","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"493","DSPy_100","GPT-3.5","multiclass",0.2,0.0625,1,0.117647058823529
+"494","DSPy_100","GPT-5","admiration",0,NA,0,NA
+"495","DSPy_100","GPT-5","amusement",0.333333333333333,0.4,0.333333333333333,0.363636363636364
+"496","DSPy_100","GPT-5","anger",0,NA,0,NA
+"497","DSPy_100","GPT-5","annoyance",0,NA,0,NA
+"498","DSPy_100","GPT-5","approval",0,0,0,NA
+"499","DSPy_100","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"500","DSPy_100","GPT-5","confusion",0.2,1,0.2,0.333333333333333
+"501","DSPy_100","GPT-5","curiosity",0,0,0,NA
+"502","DSPy_100","GPT-5","desire",0,NA,0,NA
+"503","DSPy_100","GPT-5","disappointment",0,0,0,NA
+"504","DSPy_100","GPT-5","disapproval",0.2,0.142857142857143,0.2,0.166666666666667
+"505","DSPy_100","GPT-5","disgust",0,NA,0,NA
+"506","DSPy_100","GPT-5","embarrassment",0,NA,0,NA
+"507","DSPy_100","GPT-5","excitement",0.2,1,0.2,0.333333333333333
+"508","DSPy_100","GPT-5","fear",0,0,0,NA
+"509","DSPy_100","GPT-5","gratitude",0.4,1,0.4,0.571428571428572
+"510","DSPy_100","GPT-5","grief",0,NA,0,NA
+"511","DSPy_100","GPT-5","joy",0,NA,0,NA
+"512","DSPy_100","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"513","DSPy_100","GPT-5","nervousness",0,NA,0,NA
+"514","DSPy_100","GPT-5","neutral",0,0,0,NA
+"515","DSPy_100","GPT-5","optimism",0.2,1,0.2,0.333333333333333
+"516","DSPy_100","GPT-5","pride",0,NA,0,NA
+"517","DSPy_100","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"518","DSPy_100","GPT-5","relief",0,NA,0,NA
+"519","DSPy_100","GPT-5","remorse",0,NA,0,NA
+"520","DSPy_100","GPT-5","sadness",0.4,1,0.4,0.571428571428572
+"521","DSPy_100","GPT-5","surprise",0,0,0,NA
+"522","DSPy_100","GPT-5","multiclass",0,0.0357142857142857,0.8,0.0683760683760684
+"523","DSPy_200","GPT-3.5","admiration",0,0,0,NA
+"524","DSPy_200","GPT-3.5","amusement",0.5,0.375,0.5,0.428571428571429
+"525","DSPy_200","GPT-3.5","anger",0.166666666666667,1,0.166666666666667,0.285714285714286
+"526","DSPy_200","GPT-3.5","annoyance",0,0,0,NA
+"527","DSPy_200","GPT-3.5","approval",0,0,0,NA
+"528","DSPy_200","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"529","DSPy_200","GPT-3.5","confusion",0.6,0.375,0.6,0.461538461538462
+"530","DSPy_200","GPT-3.5","curiosity",0.2,0.333333333333333,0.2,0.25
+"531","DSPy_200","GPT-3.5","desire",0,0,0,NA
+"532","DSPy_200","GPT-3.5","disappointment",0,0,0,NA
+"533","DSPy_200","GPT-3.5","disapproval",0.2,0.166666666666667,0.2,0.181818181818182
+"534","DSPy_200","GPT-3.5","disgust",0,NA,0,NA
+"535","DSPy_200","GPT-3.5","embarrassment",0,NA,0,NA
+"536","DSPy_200","GPT-3.5","excitement",0.2,1,0.2,0.333333333333333
+"537","DSPy_200","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"538","DSPy_200","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"539","DSPy_200","GPT-3.5","grief",0,NA,0,NA
+"540","DSPy_200","GPT-3.5","joy",0,NA,0,NA
+"541","DSPy_200","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"542","DSPy_200","GPT-3.5","nervousness",0,NA,0,NA
+"543","DSPy_200","GPT-3.5","neutral",0.4,0.222222222222222,0.4,0.285714285714286
+"544","DSPy_200","GPT-3.5","optimism",0.2,0.5,0.2,0.285714285714286
+"545","DSPy_200","GPT-3.5","pride",0,NA,0,NA
+"546","DSPy_200","GPT-3.5","realization",0.2,0.333333333333333,0.2,0.25
+"547","DSPy_200","GPT-3.5","relief",0,NA,0,NA
+"548","DSPy_200","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"549","DSPy_200","GPT-3.5","sadness",0.4,0.666666666666667,0.4,0.5
+"550","DSPy_200","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"551","DSPy_200","GPT-3.5","multiclass",0.2,0.0588235294117647,1,0.111111111111111
+"552","DSPy_200","GPT-5","admiration",0,NA,0,NA
+"553","DSPy_200","GPT-5","amusement",0.5,0.5,0.5,0.5
+"554","DSPy_200","GPT-5","anger",0,NA,0,NA
+"555","DSPy_200","GPT-5","annoyance",0,0,0,NA
+"556","DSPy_200","GPT-5","approval",0,0,0,NA
+"557","DSPy_200","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"558","DSPy_200","GPT-5","confusion",0.2,1,0.2,0.333333333333333
+"559","DSPy_200","GPT-5","curiosity",0,0,0,NA
+"560","DSPy_200","GPT-5","desire",0,NA,0,NA
+"561","DSPy_200","GPT-5","disappointment",0,0,0,NA
+"562","DSPy_200","GPT-5","disapproval",0,0,0,NA
+"563","DSPy_200","GPT-5","disgust",0,NA,0,NA
+"564","DSPy_200","GPT-5","embarrassment",0,0,0,NA
+"565","DSPy_200","GPT-5","excitement",0.2,1,0.2,0.333333333333333
+"566","DSPy_200","GPT-5","fear",0,0,0,NA
+"567","DSPy_200","GPT-5","gratitude",0.6,1,0.6,0.75
+"568","DSPy_200","GPT-5","grief",0,NA,0,NA
+"569","DSPy_200","GPT-5","joy",0,NA,0,NA
+"570","DSPy_200","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"571","DSPy_200","GPT-5","nervousness",0,NA,0,NA
+"572","DSPy_200","GPT-5","neutral",0,0,0,NA
+"573","DSPy_200","GPT-5","optimism",0.2,1,0.2,0.333333333333333
+"574","DSPy_200","GPT-5","pride",0,NA,0,NA
+"575","DSPy_200","GPT-5","realization",0.2,0.2,0.2,0.2
+"576","DSPy_200","GPT-5","relief",0,NA,0,NA
+"577","DSPy_200","GPT-5","remorse",0,NA,0,NA
+"578","DSPy_200","GPT-5","sadness",0.4,1,0.4,0.571428571428572
+"579","DSPy_200","GPT-5","surprise",0.6,0.75,0.6,0.666666666666667
+"580","DSPy_200","GPT-5","multiclass",0,0.0384615384615385,0.8,0.073394495412844
+"581","DSPy_300","GPT-3.5","admiration",0.166666666666667,0.25,0.166666666666667,0.2
+"582","DSPy_300","GPT-3.5","amusement",0.5,0.230769230769231,0.5,0.315789473684211
+"583","DSPy_300","GPT-3.5","anger",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"584","DSPy_300","GPT-3.5","annoyance",0,0,0,NA
+"585","DSPy_300","GPT-3.5","approval",0,0,0,NA
+"586","DSPy_300","GPT-3.5","caring",0.2,0.333333333333333,0.2,0.25
+"587","DSPy_300","GPT-3.5","confusion",0.8,0.5,0.8,0.615384615384615
+"588","DSPy_300","GPT-3.5","curiosity",0.4,0.5,0.4,0.444444444444444
+"589","DSPy_300","GPT-3.5","desire",0,NA,0,NA
+"590","DSPy_300","GPT-3.5","disappointment",0.2,0.5,0.2,0.285714285714286
+"591","DSPy_300","GPT-3.5","disapproval",0,0,0,NA
+"592","DSPy_300","GPT-3.5","disgust",0.2,0.5,0.2,0.285714285714286
+"593","DSPy_300","GPT-3.5","embarrassment",0,0,0,NA
+"594","DSPy_300","GPT-3.5","excitement",0.2,0.5,0.2,0.285714285714286
+"595","DSPy_300","GPT-3.5","fear",0,0,0,NA
+"596","DSPy_300","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"597","DSPy_300","GPT-3.5","grief",0,NA,0,NA
+"598","DSPy_300","GPT-3.5","joy",0.2,1,0.2,0.333333333333333
+"599","DSPy_300","GPT-3.5","love",0.4,0.5,0.4,0.444444444444444
+"600","DSPy_300","GPT-3.5","nervousness",0,NA,0,NA
+"601","DSPy_300","GPT-3.5","neutral",0.2,0.0416666666666667,0.2,0.0689655172413793
+"602","DSPy_300","GPT-3.5","optimism",0.2,0.5,0.2,0.285714285714286
+"603","DSPy_300","GPT-3.5","pride",0.4,1,0.4,0.571428571428572
+"604","DSPy_300","GPT-3.5","realization",0,0,0,NA
+"605","DSPy_300","GPT-3.5","relief",0,NA,0,NA
+"606","DSPy_300","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"607","DSPy_300","GPT-3.5","sadness",0.4,0.5,0.4,0.444444444444444
+"608","DSPy_300","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"609","DSPy_300","GPT-3.5","multiclass",0,0.06,0.6,0.109090909090909
+"610","DSPy_300","GPT-5","admiration",0,NA,0,NA
+"611","DSPy_300","GPT-5","amusement",0.333333333333333,0.285714285714286,0.333333333333333,0.307692307692308
+"612","DSPy_300","GPT-5","anger",0,NA,0,NA
+"613","DSPy_300","GPT-5","annoyance",0,NA,0,NA
+"614","DSPy_300","GPT-5","approval",0,0,0,NA
+"615","DSPy_300","GPT-5","caring",0.2,1,0.2,0.333333333333333
+"616","DSPy_300","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"617","DSPy_300","GPT-5","curiosity",0,0,0,NA
+"618","DSPy_300","GPT-5","desire",0,NA,0,NA
+"619","DSPy_300","GPT-5","disappointment",0,NA,0,NA
+"620","DSPy_300","GPT-5","disapproval",0,0,0,NA
+"621","DSPy_300","GPT-5","disgust",0,NA,0,NA
+"622","DSPy_300","GPT-5","embarrassment",0,NA,0,NA
+"623","DSPy_300","GPT-5","excitement",0.2,1,0.2,0.333333333333333
+"624","DSPy_300","GPT-5","fear",0,0,0,NA
+"625","DSPy_300","GPT-5","gratitude",0.4,1,0.4,0.571428571428572
+"626","DSPy_300","GPT-5","grief",0,NA,0,NA
+"627","DSPy_300","GPT-5","joy",0,NA,0,NA
+"628","DSPy_300","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"629","DSPy_300","GPT-5","nervousness",0,NA,0,NA
+"630","DSPy_300","GPT-5","neutral",0,0,0,NA
+"631","DSPy_300","GPT-5","optimism",0.2,1,0.2,0.333333333333333
+"632","DSPy_300","GPT-5","pride",0,NA,0,NA
+"633","DSPy_300","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"634","DSPy_300","GPT-5","relief",0,NA,0,NA
+"635","DSPy_300","GPT-5","remorse",0,NA,0,NA
+"636","DSPy_300","GPT-5","sadness",0.4,1,0.4,0.571428571428572
+"637","DSPy_300","GPT-5","surprise",0.4,0.666666666666667,0.4,0.5
+"638","DSPy_300","GPT-5","multiclass",0,0.0363636363636364,0.8,0.0695652173913043
+"639","Few-shot","GPT-3.5","admiration",0.5,0.5,0.5,0.5
+"640","Few-shot","GPT-3.5","amusement",0.666666666666667,0.25,0.666666666666667,0.363636363636364
+"641","Few-shot","GPT-3.5","anger",0.333333333333333,0.181818181818182,0.333333333333333,0.235294117647059
+"642","Few-shot","GPT-3.5","annoyance",0,0,0,NA
+"643","Few-shot","GPT-3.5","approval",0,0,0,NA
+"644","Few-shot","GPT-3.5","caring",0,0,0,NA
+"645","Few-shot","GPT-3.5","confusion",0.4,0.333333333333333,0.4,0.363636363636364
+"646","Few-shot","GPT-3.5","curiosity",0.4,0.333333333333333,0.4,0.363636363636364
+"647","Few-shot","GPT-3.5","desire",0,NA,0,NA
+"648","Few-shot","GPT-3.5","disappointment",0,0,0,NA
+"649","Few-shot","GPT-3.5","disapproval",0.6,0.1875,0.6,0.285714285714286
+"650","Few-shot","GPT-3.5","disgust",0.4,0.2,0.4,0.266666666666667
+"651","Few-shot","GPT-3.5","embarrassment",0,0,0,NA
+"652","Few-shot","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"653","Few-shot","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"654","Few-shot","GPT-3.5","gratitude",0.6,0.75,0.6,0.666666666666667
+"655","Few-shot","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"656","Few-shot","GPT-3.5","joy",0.2,0.25,0.2,0.222222222222222
+"657","Few-shot","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"658","Few-shot","GPT-3.5","nervousness",0,NA,0,NA
+"659","Few-shot","GPT-3.5","neutral",0,0,0,NA
+"660","Few-shot","GPT-3.5","optimism",0.4,0.5,0.4,0.444444444444444
+"661","Few-shot","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"662","Few-shot","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"663","Few-shot","GPT-3.5","relief",0,NA,0,NA
+"664","Few-shot","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"665","Few-shot","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"666","Few-shot","GPT-3.5","surprise",0.6,0.428571428571429,0.6,0.5
+"667","Few-shot","GPT-3.5","multiclass",0,0,0,NA
+"668","Few-shot","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"669","Few-shot","GPT-5","amusement",0.5,0.272727272727273,0.5,0.352941176470588
+"670","Few-shot","GPT-5","anger",0,0,0,NA
+"671","Few-shot","GPT-5","annoyance",0,0,0,NA
+"672","Few-shot","GPT-5","approval",0,0,0,NA
+"673","Few-shot","GPT-5","caring",0.2,0.333333333333333,0.2,0.25
+"674","Few-shot","GPT-5","confusion",0.2,0.25,0.2,0.222222222222222
+"675","Few-shot","GPT-5","curiosity",0.4,0.666666666666667,0.4,0.5
+"676","Few-shot","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"677","Few-shot","GPT-5","disappointment",0,0,0,NA
+"678","Few-shot","GPT-5","disapproval",0.4,0.0645161290322581,0.4,0.111111111111111
+"679","Few-shot","GPT-5","disgust",0.2,0.5,0.2,0.285714285714286
+"680","Few-shot","GPT-5","embarrassment",0.2,0.5,0.2,0.285714285714286
+"681","Few-shot","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"682","Few-shot","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"683","Few-shot","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"684","Few-shot","GPT-5","grief",0,NA,0,NA
+"685","Few-shot","GPT-5","joy",0,NA,0,NA
+"686","Few-shot","GPT-5","love",0.6,0.6,0.6,0.6
+"687","Few-shot","GPT-5","nervousness",0,NA,0,NA
+"688","Few-shot","GPT-5","neutral",0,0,0,NA
+"689","Few-shot","GPT-5","optimism",0.2,0.333333333333333,0.2,0.25
+"690","Few-shot","GPT-5","pride",0,0,0,NA
+"691","Few-shot","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"692","Few-shot","GPT-5","relief",0,NA,0,NA
+"693","Few-shot","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"694","Few-shot","GPT-5","sadness",0.6,0.6,0.6,0.6
+"695","Few-shot","GPT-5","surprise",0.6,0.6,0.6,0.6
+"696","Few-shot","GPT-5","multiclass",0,0.04,0.2,0.0666666666666667
+"697","Few-shot_APO10","GPT-3.5","admiration",0.5,0.5,0.5,0.5
+"698","Few-shot_APO10","GPT-3.5","amusement",0.5,0.214285714285714,0.5,0.3
+"699","Few-shot_APO10","GPT-3.5","anger",0.333333333333333,0.181818181818182,0.333333333333333,0.235294117647059
+"700","Few-shot_APO10","GPT-3.5","annoyance",0,0,0,NA
+"701","Few-shot_APO10","GPT-3.5","approval",0,0,0,NA
+"702","Few-shot_APO10","GPT-3.5","caring",0,0,0,NA
+"703","Few-shot_APO10","GPT-3.5","confusion",0.4,0.333333333333333,0.4,0.363636363636364
+"704","Few-shot_APO10","GPT-3.5","curiosity",0.4,0.333333333333333,0.4,0.363636363636364
+"705","Few-shot_APO10","GPT-3.5","desire",0,NA,0,NA
+"706","Few-shot_APO10","GPT-3.5","disappointment",0,0,0,NA
+"707","Few-shot_APO10","GPT-3.5","disapproval",0.6,0.166666666666667,0.6,0.260869565217391
+"708","Few-shot_APO10","GPT-3.5","disgust",0.4,0.222222222222222,0.4,0.285714285714286
+"709","Few-shot_APO10","GPT-3.5","embarrassment",0,0,0,NA
+"710","Few-shot_APO10","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"711","Few-shot_APO10","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"712","Few-shot_APO10","GPT-3.5","gratitude",0.6,0.75,0.6,0.666666666666667
+"713","Few-shot_APO10","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"714","Few-shot_APO10","GPT-3.5","joy",0.2,0.25,0.2,0.222222222222222
+"715","Few-shot_APO10","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"716","Few-shot_APO10","GPT-3.5","nervousness",0,NA,0,NA
+"717","Few-shot_APO10","GPT-3.5","neutral",0,0,0,NA
+"718","Few-shot_APO10","GPT-3.5","optimism",0.4,0.5,0.4,0.444444444444444
+"719","Few-shot_APO10","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"720","Few-shot_APO10","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"721","Few-shot_APO10","GPT-3.5","relief",0,NA,0,NA
+"722","Few-shot_APO10","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"723","Few-shot_APO10","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"724","Few-shot_APO10","GPT-3.5","surprise",0.6,0.375,0.6,0.461538461538462
+"725","Few-shot_APO10","GPT-3.5","multiclass",0,0,0,NA
+"726","Few-shot_APO10","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"727","Few-shot_APO10","GPT-5","amusement",0.5,0.272727272727273,0.5,0.352941176470588
+"728","Few-shot_APO10","GPT-5","anger",0,NA,0,NA
+"729","Few-shot_APO10","GPT-5","annoyance",0,0,0,NA
+"730","Few-shot_APO10","GPT-5","approval",0,0,0,NA
+"731","Few-shot_APO10","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"732","Few-shot_APO10","GPT-5","confusion",0.2,0.5,0.2,0.285714285714286
+"733","Few-shot_APO10","GPT-5","curiosity",0.2,0.333333333333333,0.2,0.25
+"734","Few-shot_APO10","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"735","Few-shot_APO10","GPT-5","disappointment",0,0,0,NA
+"736","Few-shot_APO10","GPT-5","disapproval",0.4,0.08,0.4,0.133333333333333
+"737","Few-shot_APO10","GPT-5","disgust",0.2,0.333333333333333,0.2,0.25
+"738","Few-shot_APO10","GPT-5","embarrassment",0.2,0.5,0.2,0.285714285714286
+"739","Few-shot_APO10","GPT-5","excitement",0.2,0.25,0.2,0.222222222222222
+"740","Few-shot_APO10","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"741","Few-shot_APO10","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"742","Few-shot_APO10","GPT-5","grief",0,NA,0,NA
+"743","Few-shot_APO10","GPT-5","joy",0,NA,0,NA
+"744","Few-shot_APO10","GPT-5","love",0.6,0.6,0.6,0.6
+"745","Few-shot_APO10","GPT-5","nervousness",0,0,0,NA
+"746","Few-shot_APO10","GPT-5","neutral",0.2,0.0588235294117647,0.2,0.0909090909090909
+"747","Few-shot_APO10","GPT-5","optimism",0.2,0.25,0.2,0.222222222222222
+"748","Few-shot_APO10","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"749","Few-shot_APO10","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"750","Few-shot_APO10","GPT-5","relief",0,NA,0,NA
+"751","Few-shot_APO10","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"752","Few-shot_APO10","GPT-5","sadness",0.6,0.6,0.6,0.6
+"753","Few-shot_APO10","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"754","Few-shot_APO10","GPT-5","multiclass",0,0.0344827586206897,0.2,0.0588235294117647
+"755","Few-shot_APO20","GPT-3.5","admiration",0.5,0.5,0.5,0.5
+"756","Few-shot_APO20","GPT-3.5","amusement",0.666666666666667,0.235294117647059,0.666666666666667,0.347826086956522
+"757","Few-shot_APO20","GPT-3.5","anger",0.333333333333333,0.166666666666667,0.333333333333333,0.222222222222222
+"758","Few-shot_APO20","GPT-3.5","annoyance",0,0,0,NA
+"759","Few-shot_APO20","GPT-3.5","approval",0,0,0,NA
+"760","Few-shot_APO20","GPT-3.5","caring",0,0,0,NA
+"761","Few-shot_APO20","GPT-3.5","confusion",0.4,0.333333333333333,0.4,0.363636363636364
+"762","Few-shot_APO20","GPT-3.5","curiosity",0.4,0.333333333333333,0.4,0.363636363636364
+"763","Few-shot_APO20","GPT-3.5","desire",0,NA,0,NA
+"764","Few-shot_APO20","GPT-3.5","disappointment",0,0,0,NA
+"765","Few-shot_APO20","GPT-3.5","disapproval",0.6,0.1875,0.6,0.285714285714286
+"766","Few-shot_APO20","GPT-3.5","disgust",0.4,0.222222222222222,0.4,0.285714285714286
+"767","Few-shot_APO20","GPT-3.5","embarrassment",0,0,0,NA
+"768","Few-shot_APO20","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"769","Few-shot_APO20","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"770","Few-shot_APO20","GPT-3.5","gratitude",0.6,0.75,0.6,0.666666666666667
+"771","Few-shot_APO20","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"772","Few-shot_APO20","GPT-3.5","joy",0.2,0.25,0.2,0.222222222222222
+"773","Few-shot_APO20","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"774","Few-shot_APO20","GPT-3.5","nervousness",0,NA,0,NA
+"775","Few-shot_APO20","GPT-3.5","neutral",0,0,0,NA
+"776","Few-shot_APO20","GPT-3.5","optimism",0.4,0.5,0.4,0.444444444444444
+"777","Few-shot_APO20","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"778","Few-shot_APO20","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"779","Few-shot_APO20","GPT-3.5","relief",0,NA,0,NA
+"780","Few-shot_APO20","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"781","Few-shot_APO20","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"782","Few-shot_APO20","GPT-3.5","surprise",0.6,0.5,0.6,0.545454545454545
+"783","Few-shot_APO20","GPT-3.5","multiclass",0,0,0,NA
+"784","Few-shot_APO20","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"785","Few-shot_APO20","GPT-5","amusement",0.5,0.272727272727273,0.5,0.352941176470588
+"786","Few-shot_APO20","GPT-5","anger",0,0,0,NA
+"787","Few-shot_APO20","GPT-5","annoyance",0,0,0,NA
+"788","Few-shot_APO20","GPT-5","approval",0,0,0,NA
+"789","Few-shot_APO20","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"790","Few-shot_APO20","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"791","Few-shot_APO20","GPT-5","curiosity",0.2,0.333333333333333,0.2,0.25
+"792","Few-shot_APO20","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"793","Few-shot_APO20","GPT-5","disappointment",0,0,0,NA
+"794","Few-shot_APO20","GPT-5","disapproval",0.4,0.0833333333333333,0.4,0.137931034482759
+"795","Few-shot_APO20","GPT-5","disgust",0.2,0.333333333333333,0.2,0.25
+"796","Few-shot_APO20","GPT-5","embarrassment",0.2,0.5,0.2,0.285714285714286
+"797","Few-shot_APO20","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"798","Few-shot_APO20","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"799","Few-shot_APO20","GPT-5","gratitude",0.6,0.75,0.6,0.666666666666667
+"800","Few-shot_APO20","GPT-5","grief",0,NA,0,NA
+"801","Few-shot_APO20","GPT-5","joy",0,NA,0,NA
+"802","Few-shot_APO20","GPT-5","love",0.6,0.75,0.6,0.666666666666667
+"803","Few-shot_APO20","GPT-5","nervousness",0,0,0,NA
+"804","Few-shot_APO20","GPT-5","neutral",0.2,0.0526315789473684,0.2,0.0833333333333333
+"805","Few-shot_APO20","GPT-5","optimism",0.2,0.333333333333333,0.2,0.25
+"806","Few-shot_APO20","GPT-5","pride",0.2,0.333333333333333,0.2,0.25
+"807","Few-shot_APO20","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"808","Few-shot_APO20","GPT-5","relief",0,NA,0,NA
+"809","Few-shot_APO20","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"810","Few-shot_APO20","GPT-5","sadness",0.6,0.5,0.6,0.545454545454545
+"811","Few-shot_APO20","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"812","Few-shot_APO20","GPT-5","multiclass",0,0.04,0.2,0.0666666666666667
+"813","Few-shot_APO50","GPT-3.5","admiration",0.5,0.5,0.5,0.5
+"814","Few-shot_APO50","GPT-3.5","amusement",0.5,0.2,0.5,0.285714285714286
+"815","Few-shot_APO50","GPT-3.5","anger",0.333333333333333,0.181818181818182,0.333333333333333,0.235294117647059
+"816","Few-shot_APO50","GPT-3.5","annoyance",0,0,0,NA
+"817","Few-shot_APO50","GPT-3.5","approval",0,0,0,NA
+"818","Few-shot_APO50","GPT-3.5","caring",0,0,0,NA
+"819","Few-shot_APO50","GPT-3.5","confusion",0.4,0.333333333333333,0.4,0.363636363636364
+"820","Few-shot_APO50","GPT-3.5","curiosity",0.4,0.333333333333333,0.4,0.363636363636364
+"821","Few-shot_APO50","GPT-3.5","desire",0,NA,0,NA
+"822","Few-shot_APO50","GPT-3.5","disappointment",0,0,0,NA
+"823","Few-shot_APO50","GPT-3.5","disapproval",0.4,0.133333333333333,0.4,0.2
+"824","Few-shot_APO50","GPT-3.5","disgust",0.4,0.2,0.4,0.266666666666667
+"825","Few-shot_APO50","GPT-3.5","embarrassment",0,0,0,NA
+"826","Few-shot_APO50","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"827","Few-shot_APO50","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"828","Few-shot_APO50","GPT-3.5","gratitude",0.6,0.75,0.6,0.666666666666667
+"829","Few-shot_APO50","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"830","Few-shot_APO50","GPT-3.5","joy",0.2,0.25,0.2,0.222222222222222
+"831","Few-shot_APO50","GPT-3.5","love",0.2,1,0.2,0.333333333333333
+"832","Few-shot_APO50","GPT-3.5","nervousness",0,NA,0,NA
+"833","Few-shot_APO50","GPT-3.5","neutral",0,0,0,NA
+"834","Few-shot_APO50","GPT-3.5","optimism",0.4,0.5,0.4,0.444444444444444
+"835","Few-shot_APO50","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"836","Few-shot_APO50","GPT-3.5","realization",0.2,0.333333333333333,0.2,0.25
+"837","Few-shot_APO50","GPT-3.5","relief",0,NA,0,NA
+"838","Few-shot_APO50","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"839","Few-shot_APO50","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"840","Few-shot_APO50","GPT-3.5","surprise",0.6,0.428571428571429,0.6,0.5
+"841","Few-shot_APO50","GPT-3.5","multiclass",0,0,0,NA
+"842","Few-shot_APO50","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"843","Few-shot_APO50","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"844","Few-shot_APO50","GPT-5","anger",0.166666666666667,0.5,0.166666666666667,0.25
+"845","Few-shot_APO50","GPT-5","annoyance",0,0,0,NA
+"846","Few-shot_APO50","GPT-5","approval",0,0,0,NA
+"847","Few-shot_APO50","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"848","Few-shot_APO50","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"849","Few-shot_APO50","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"850","Few-shot_APO50","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"851","Few-shot_APO50","GPT-5","disappointment",0,0,0,NA
+"852","Few-shot_APO50","GPT-5","disapproval",0.4,0.0909090909090909,0.4,0.148148148148148
+"853","Few-shot_APO50","GPT-5","disgust",0.2,0.25,0.2,0.222222222222222
+"854","Few-shot_APO50","GPT-5","embarrassment",0.2,0.5,0.2,0.285714285714286
+"855","Few-shot_APO50","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"856","Few-shot_APO50","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"857","Few-shot_APO50","GPT-5","gratitude",0.6,0.75,0.6,0.666666666666667
+"858","Few-shot_APO50","GPT-5","grief",0,NA,0,NA
+"859","Few-shot_APO50","GPT-5","joy",0,NA,0,NA
+"860","Few-shot_APO50","GPT-5","love",0.2,0.5,0.2,0.285714285714286
+"861","Few-shot_APO50","GPT-5","nervousness",0,0,0,NA
+"862","Few-shot_APO50","GPT-5","neutral",0.2,0.05,0.2,0.08
+"863","Few-shot_APO50","GPT-5","optimism",0.2,0.25,0.2,0.222222222222222
+"864","Few-shot_APO50","GPT-5","pride",0.2,0.333333333333333,0.2,0.25
+"865","Few-shot_APO50","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"866","Few-shot_APO50","GPT-5","relief",0,NA,0,NA
+"867","Few-shot_APO50","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"868","Few-shot_APO50","GPT-5","sadness",0.6,0.5,0.6,0.545454545454545
+"869","Few-shot_APO50","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"870","Few-shot_APO50","GPT-5","multiclass",0,0.0384615384615385,0.2,0.0645161290322581
+"871","Self-Consistency","GPT-3.5","admiration",0.5,0.25,0.5,0.333333333333333
+"872","Self-Consistency","GPT-3.5","amusement",0.166666666666667,0.5,0.166666666666667,0.25
+"873","Self-Consistency","GPT-3.5","anger",0.666666666666667,0.166666666666667,0.666666666666667,0.266666666666667
+"874","Self-Consistency","GPT-3.5","annoyance",0,0,0,NA
+"875","Self-Consistency","GPT-3.5","approval",0,NA,0,NA
+"876","Self-Consistency","GPT-3.5","caring",0,NA,0,NA
+"877","Self-Consistency","GPT-3.5","confusion",0.2,0.5,0.2,0.285714285714286
+"878","Self-Consistency","GPT-3.5","curiosity",0.4,0.5,0.4,0.444444444444444
+"879","Self-Consistency","GPT-3.5","desire",0,NA,0,NA
+"880","Self-Consistency","GPT-3.5","disappointment",0,0,0,NA
+"881","Self-Consistency","GPT-3.5","disapproval",0,0,0,NA
+"882","Self-Consistency","GPT-3.5","disgust",0,0,0,NA
+"883","Self-Consistency","GPT-3.5","embarrassment",0,0,0,NA
+"884","Self-Consistency","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"885","Self-Consistency","GPT-3.5","fear",0.2,0.333333333333333,0.2,0.25
+"886","Self-Consistency","GPT-3.5","gratitude",0.8,0.8,0.8,0.8
+"887","Self-Consistency","GPT-3.5","grief",0,NA,0,NA
+"888","Self-Consistency","GPT-3.5","joy",0.2,0.166666666666667,0.2,0.181818181818182
+"889","Self-Consistency","GPT-3.5","love",0,NA,0,NA
+"890","Self-Consistency","GPT-3.5","nervousness",0,NA,0,NA
+"891","Self-Consistency","GPT-3.5","neutral",0.6,0.0545454545454545,0.6,0.1
+"892","Self-Consistency","GPT-3.5","optimism",0,NA,0,NA
+"893","Self-Consistency","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"894","Self-Consistency","GPT-3.5","realization",0,NA,0,NA
+"895","Self-Consistency","GPT-3.5","relief",0,NA,0,NA
+"896","Self-Consistency","GPT-3.5","remorse",0,NA,0,NA
+"897","Self-Consistency","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"898","Self-Consistency","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"899","Self-Consistency","GPT-3.5","multiclass",0,0,0,NA
+"900","Self-Consistency","GPT-5","admiration",0.333333333333333,0.5,0.333333333333333,0.4
+"901","Self-Consistency","GPT-5","amusement",0.5,0.333333333333333,0.5,0.4
+"902","Self-Consistency","GPT-5","anger",0.166666666666667,0.2,0.166666666666667,0.181818181818182
+"903","Self-Consistency","GPT-5","annoyance",0.166666666666667,0.0434782608695652,0.166666666666667,0.0689655172413793
+"904","Self-Consistency","GPT-5","approval",0,NA,0,NA
+"905","Self-Consistency","GPT-5","caring",0,NA,0,NA
+"906","Self-Consistency","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"907","Self-Consistency","GPT-5","curiosity",0.2,1,0.2,0.333333333333333
+"908","Self-Consistency","GPT-5","desire",0,NA,0,NA
+"909","Self-Consistency","GPT-5","disappointment",0,0,0,NA
+"910","Self-Consistency","GPT-5","disapproval",0,0,0,NA
+"911","Self-Consistency","GPT-5","disgust",0.4,0.285714285714286,0.4,0.333333333333333
+"912","Self-Consistency","GPT-5","embarrassment",0,NA,0,NA
+"913","Self-Consistency","GPT-5","excitement",0.2,0.166666666666667,0.2,0.181818181818182
+"914","Self-Consistency","GPT-5","fear",0.2,0.333333333333333,0.2,0.25
+"915","Self-Consistency","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"916","Self-Consistency","GPT-5","grief",0,NA,0,NA
+"917","Self-Consistency","GPT-5","joy",0,0,0,NA
+"918","Self-Consistency","GPT-5","love",0,0,0,NA
+"919","Self-Consistency","GPT-5","nervousness",0,NA,0,NA
+"920","Self-Consistency","GPT-5","neutral",0.4,0.0425531914893617,0.4,0.0769230769230769
+"921","Self-Consistency","GPT-5","optimism",0,0,0,NA
+"922","Self-Consistency","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"923","Self-Consistency","GPT-5","realization",0,NA,0,NA
+"924","Self-Consistency","GPT-5","relief",0,NA,0,NA
+"925","Self-Consistency","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"926","Self-Consistency","GPT-5","sadness",0.6,0.333333333333333,0.6,0.428571428571429
+"927","Self-Consistency","GPT-5","surprise",0.4,0.5,0.4,0.444444444444444
+"928","Self-Consistency","GPT-5","multiclass",0,0,0,NA
+"929","Self-Consistency_APO10","GPT-3.5","admiration",0.666666666666667,0.333333333333333,0.666666666666667,0.444444444444444
+"930","Self-Consistency_APO10","GPT-3.5","amusement",0.166666666666667,0.5,0.166666666666667,0.25
+"931","Self-Consistency_APO10","GPT-3.5","anger",0.666666666666667,0.16,0.666666666666667,0.258064516129032
+"932","Self-Consistency_APO10","GPT-3.5","annoyance",0,0,0,NA
+"933","Self-Consistency_APO10","GPT-3.5","approval",0,NA,0,NA
+"934","Self-Consistency_APO10","GPT-3.5","caring",0,NA,0,NA
+"935","Self-Consistency_APO10","GPT-3.5","confusion",0.2,0.5,0.2,0.285714285714286
+"936","Self-Consistency_APO10","GPT-3.5","curiosity",0.2,0.333333333333333,0.2,0.25
+"937","Self-Consistency_APO10","GPT-3.5","desire",0,NA,0,NA
+"938","Self-Consistency_APO10","GPT-3.5","disappointment",0,0,0,NA
+"939","Self-Consistency_APO10","GPT-3.5","disapproval",0,0,0,NA
+"940","Self-Consistency_APO10","GPT-3.5","disgust",0.2,0.25,0.2,0.222222222222222
+"941","Self-Consistency_APO10","GPT-3.5","embarrassment",0,0,0,NA
+"942","Self-Consistency_APO10","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"943","Self-Consistency_APO10","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"944","Self-Consistency_APO10","GPT-3.5","gratitude",0.6,0.6,0.6,0.6
+"945","Self-Consistency_APO10","GPT-3.5","grief",0,NA,0,NA
+"946","Self-Consistency_APO10","GPT-3.5","joy",0.4,0.285714285714286,0.4,0.333333333333333
+"947","Self-Consistency_APO10","GPT-3.5","love",0,NA,0,NA
+"948","Self-Consistency_APO10","GPT-3.5","nervousness",0,NA,0,NA
+"949","Self-Consistency_APO10","GPT-3.5","neutral",0.4,0.0363636363636364,0.4,0.0666666666666667
+"950","Self-Consistency_APO10","GPT-3.5","optimism",0,NA,0,NA
+"951","Self-Consistency_APO10","GPT-3.5","pride",0.2,0.5,0.2,0.285714285714286
+"952","Self-Consistency_APO10","GPT-3.5","realization",0,NA,0,NA
+"953","Self-Consistency_APO10","GPT-3.5","relief",0,NA,0,NA
+"954","Self-Consistency_APO10","GPT-3.5","remorse",0,NA,0,NA
+"955","Self-Consistency_APO10","GPT-3.5","sadness",0.6,0.428571428571429,0.6,0.5
+"956","Self-Consistency_APO10","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"957","Self-Consistency_APO10","GPT-3.5","multiclass",0,0,0,NA
+"958","Self-Consistency_APO10","GPT-5","admiration",0.333333333333333,0.5,0.333333333333333,0.4
+"959","Self-Consistency_APO10","GPT-5","amusement",0.333333333333333,0.25,0.333333333333333,0.285714285714286
+"960","Self-Consistency_APO10","GPT-5","anger",0.333333333333333,0.285714285714286,0.333333333333333,0.307692307692308
+"961","Self-Consistency_APO10","GPT-5","annoyance",0.166666666666667,0.0476190476190476,0.166666666666667,0.0740740740740741
+"962","Self-Consistency_APO10","GPT-5","approval",0,NA,0,NA
+"963","Self-Consistency_APO10","GPT-5","caring",0,NA,0,NA
+"964","Self-Consistency_APO10","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"965","Self-Consistency_APO10","GPT-5","curiosity",0.2,1,0.2,0.333333333333333
+"966","Self-Consistency_APO10","GPT-5","desire",0,NA,0,NA
+"967","Self-Consistency_APO10","GPT-5","disappointment",0,0,0,NA
+"968","Self-Consistency_APO10","GPT-5","disapproval",0,0,0,NA
+"969","Self-Consistency_APO10","GPT-5","disgust",0.4,0.285714285714286,0.4,0.333333333333333
+"970","Self-Consistency_APO10","GPT-5","embarrassment",0,NA,0,NA
+"971","Self-Consistency_APO10","GPT-5","excitement",0.2,0.166666666666667,0.2,0.181818181818182
+"972","Self-Consistency_APO10","GPT-5","fear",0.2,0.333333333333333,0.2,0.25
+"973","Self-Consistency_APO10","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"974","Self-Consistency_APO10","GPT-5","grief",0,NA,0,NA
+"975","Self-Consistency_APO10","GPT-5","joy",0,0,0,NA
+"976","Self-Consistency_APO10","GPT-5","love",0.2,0.5,0.2,0.285714285714286
+"977","Self-Consistency_APO10","GPT-5","nervousness",0,NA,0,NA
+"978","Self-Consistency_APO10","GPT-5","neutral",0.2,0.0212765957446809,0.2,0.0384615384615385
+"979","Self-Consistency_APO10","GPT-5","optimism",0,0,0,NA
+"980","Self-Consistency_APO10","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"981","Self-Consistency_APO10","GPT-5","realization",0,NA,0,NA
+"982","Self-Consistency_APO10","GPT-5","relief",0,NA,0,NA
+"983","Self-Consistency_APO10","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"984","Self-Consistency_APO10","GPT-5","sadness",0.6,0.375,0.6,0.461538461538462
+"985","Self-Consistency_APO10","GPT-5","surprise",0.4,0.5,0.4,0.444444444444444
+"986","Self-Consistency_APO10","GPT-5","multiclass",0,0,0,NA
+"987","Self-Consistency_APO20","GPT-3.5","admiration",0.5,0.25,0.5,0.333333333333333
+"988","Self-Consistency_APO20","GPT-3.5","amusement",0.166666666666667,0.5,0.166666666666667,0.25
+"989","Self-Consistency_APO20","GPT-3.5","anger",0.666666666666667,0.173913043478261,0.666666666666667,0.275862068965517
+"990","Self-Consistency_APO20","GPT-3.5","annoyance",0,0,0,NA
+"991","Self-Consistency_APO20","GPT-3.5","approval",0,NA,0,NA
+"992","Self-Consistency_APO20","GPT-3.5","caring",0,NA,0,NA
+"993","Self-Consistency_APO20","GPT-3.5","confusion",0.2,0.5,0.2,0.285714285714286
+"994","Self-Consistency_APO20","GPT-3.5","curiosity",0,0,0,NA
+"995","Self-Consistency_APO20","GPT-3.5","desire",0,NA,0,NA
+"996","Self-Consistency_APO20","GPT-3.5","disappointment",0,0,0,NA
+"997","Self-Consistency_APO20","GPT-3.5","disapproval",0.2,0.333333333333333,0.2,0.25
+"998","Self-Consistency_APO20","GPT-3.5","disgust",0,0,0,NA
+"999","Self-Consistency_APO20","GPT-3.5","embarrassment",0,0,0,NA
+"1000","Self-Consistency_APO20","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"1001","Self-Consistency_APO20","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"1002","Self-Consistency_APO20","GPT-3.5","gratitude",0.8,0.8,0.8,0.8
+"1003","Self-Consistency_APO20","GPT-3.5","grief",0,NA,0,NA
+"1004","Self-Consistency_APO20","GPT-3.5","joy",0.2,0.142857142857143,0.2,0.166666666666667
+"1005","Self-Consistency_APO20","GPT-3.5","love",0,NA,0,NA
+"1006","Self-Consistency_APO20","GPT-3.5","nervousness",0,NA,0,NA
+"1007","Self-Consistency_APO20","GPT-3.5","neutral",0.6,0.05,0.6,0.0923076923076923
+"1008","Self-Consistency_APO20","GPT-3.5","optimism",0,NA,0,NA
+"1009","Self-Consistency_APO20","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1010","Self-Consistency_APO20","GPT-3.5","realization",0,NA,0,NA
+"1011","Self-Consistency_APO20","GPT-3.5","relief",0,NA,0,NA
+"1012","Self-Consistency_APO20","GPT-3.5","remorse",0,NA,0,NA
+"1013","Self-Consistency_APO20","GPT-3.5","sadness",0.8,0.444444444444444,0.8,0.571428571428571
+"1014","Self-Consistency_APO20","GPT-3.5","surprise",0.2,0.333333333333333,0.2,0.25
+"1015","Self-Consistency_APO20","GPT-3.5","multiclass",0,0,0,NA
+"1016","Self-Consistency_APO20","GPT-5","admiration",0.333333333333333,0.5,0.333333333333333,0.4
+"1017","Self-Consistency_APO20","GPT-5","amusement",0.5,0.333333333333333,0.5,0.4
+"1018","Self-Consistency_APO20","GPT-5","anger",0.166666666666667,0.142857142857143,0.166666666666667,0.153846153846154
+"1019","Self-Consistency_APO20","GPT-5","annoyance",0.166666666666667,0.0434782608695652,0.166666666666667,0.0689655172413793
+"1020","Self-Consistency_APO20","GPT-5","approval",0,0,0,NA
+"1021","Self-Consistency_APO20","GPT-5","caring",0,NA,0,NA
+"1022","Self-Consistency_APO20","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"1023","Self-Consistency_APO20","GPT-5","curiosity",0,NA,0,NA
+"1024","Self-Consistency_APO20","GPT-5","desire",0,NA,0,NA
+"1025","Self-Consistency_APO20","GPT-5","disappointment",0,0,0,NA
+"1026","Self-Consistency_APO20","GPT-5","disapproval",0,0,0,NA
+"1027","Self-Consistency_APO20","GPT-5","disgust",0.4,0.285714285714286,0.4,0.333333333333333
+"1028","Self-Consistency_APO20","GPT-5","embarrassment",0,NA,0,NA
+"1029","Self-Consistency_APO20","GPT-5","excitement",0.2,0.166666666666667,0.2,0.181818181818182
+"1030","Self-Consistency_APO20","GPT-5","fear",0.2,0.333333333333333,0.2,0.25
+"1031","Self-Consistency_APO20","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"1032","Self-Consistency_APO20","GPT-5","grief",0,NA,0,NA
+"1033","Self-Consistency_APO20","GPT-5","joy",0,0,0,NA
+"1034","Self-Consistency_APO20","GPT-5","love",0.2,1,0.2,0.333333333333333
+"1035","Self-Consistency_APO20","GPT-5","nervousness",0,NA,0,NA
+"1036","Self-Consistency_APO20","GPT-5","neutral",0.2,0.0217391304347826,0.2,0.0392156862745098
+"1037","Self-Consistency_APO20","GPT-5","optimism",0,0,0,NA
+"1038","Self-Consistency_APO20","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"1039","Self-Consistency_APO20","GPT-5","realization",0,NA,0,NA
+"1040","Self-Consistency_APO20","GPT-5","relief",0,NA,0,NA
+"1041","Self-Consistency_APO20","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1042","Self-Consistency_APO20","GPT-5","sadness",0.6,0.375,0.6,0.461538461538462
+"1043","Self-Consistency_APO20","GPT-5","surprise",0.4,0.5,0.4,0.444444444444444
+"1044","Self-Consistency_APO20","GPT-5","multiclass",0,0,0,NA
+"1045","Self-Consistency_APO50","GPT-3.5","admiration",0.666666666666667,0.333333333333333,0.666666666666667,0.444444444444444
+"1046","Self-Consistency_APO50","GPT-3.5","amusement",0.166666666666667,0.333333333333333,0.166666666666667,0.222222222222222
+"1047","Self-Consistency_APO50","GPT-3.5","anger",0.666666666666667,0.181818181818182,0.666666666666667,0.285714285714286
+"1048","Self-Consistency_APO50","GPT-3.5","annoyance",0,0,0,NA
+"1049","Self-Consistency_APO50","GPT-3.5","approval",0,NA,0,NA
+"1050","Self-Consistency_APO50","GPT-3.5","caring",0,NA,0,NA
+"1051","Self-Consistency_APO50","GPT-3.5","confusion",0.2,0.25,0.2,0.222222222222222
+"1052","Self-Consistency_APO50","GPT-3.5","curiosity",0,0,0,NA
+"1053","Self-Consistency_APO50","GPT-3.5","desire",0,NA,0,NA
+"1054","Self-Consistency_APO50","GPT-3.5","disappointment",0,0,0,NA
+"1055","Self-Consistency_APO50","GPT-3.5","disapproval",0.2,0.25,0.2,0.222222222222222
+"1056","Self-Consistency_APO50","GPT-3.5","disgust",0.2,0.25,0.2,0.222222222222222
+"1057","Self-Consistency_APO50","GPT-3.5","embarrassment",0,0,0,NA
+"1058","Self-Consistency_APO50","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"1059","Self-Consistency_APO50","GPT-3.5","fear",0.2,0.333333333333333,0.2,0.25
+"1060","Self-Consistency_APO50","GPT-3.5","gratitude",0.8,0.8,0.8,0.8
+"1061","Self-Consistency_APO50","GPT-3.5","grief",0,NA,0,NA
+"1062","Self-Consistency_APO50","GPT-3.5","joy",0.2,0.2,0.2,0.2
+"1063","Self-Consistency_APO50","GPT-3.5","love",0.2,1,0.2,0.333333333333333
+"1064","Self-Consistency_APO50","GPT-3.5","nervousness",0,NA,0,NA
+"1065","Self-Consistency_APO50","GPT-3.5","neutral",0.4,0.037037037037037,0.4,0.0677966101694915
+"1066","Self-Consistency_APO50","GPT-3.5","optimism",0,NA,0,NA
+"1067","Self-Consistency_APO50","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1068","Self-Consistency_APO50","GPT-3.5","realization",0,NA,0,NA
+"1069","Self-Consistency_APO50","GPT-3.5","relief",0,NA,0,NA
+"1070","Self-Consistency_APO50","GPT-3.5","remorse",0,NA,0,NA
+"1071","Self-Consistency_APO50","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"1072","Self-Consistency_APO50","GPT-3.5","surprise",0.4,0.666666666666667,0.4,0.5
+"1073","Self-Consistency_APO50","GPT-3.5","multiclass",0,0.142857142857143,0.2,0.166666666666667
+"1074","Self-Consistency_APO50","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"1075","Self-Consistency_APO50","GPT-5","amusement",0.333333333333333,0.25,0.333333333333333,0.285714285714286
+"1076","Self-Consistency_APO50","GPT-5","anger",0.333333333333333,0.285714285714286,0.333333333333333,0.307692307692308
+"1077","Self-Consistency_APO50","GPT-5","annoyance",0.166666666666667,0.0476190476190476,0.166666666666667,0.0740740740740741
+"1078","Self-Consistency_APO50","GPT-5","approval",0,0,0,NA
+"1079","Self-Consistency_APO50","GPT-5","caring",0,NA,0,NA
+"1080","Self-Consistency_APO50","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"1081","Self-Consistency_APO50","GPT-5","curiosity",0.2,1,0.2,0.333333333333333
+"1082","Self-Consistency_APO50","GPT-5","desire",0,NA,0,NA
+"1083","Self-Consistency_APO50","GPT-5","disappointment",0,0,0,NA
+"1084","Self-Consistency_APO50","GPT-5","disapproval",0,0,0,NA
+"1085","Self-Consistency_APO50","GPT-5","disgust",0.4,0.285714285714286,0.4,0.333333333333333
+"1086","Self-Consistency_APO50","GPT-5","embarrassment",0,NA,0,NA
+"1087","Self-Consistency_APO50","GPT-5","excitement",0.2,0.166666666666667,0.2,0.181818181818182
+"1088","Self-Consistency_APO50","GPT-5","fear",0.2,0.333333333333333,0.2,0.25
+"1089","Self-Consistency_APO50","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"1090","Self-Consistency_APO50","GPT-5","grief",0,NA,0,NA
+"1091","Self-Consistency_APO50","GPT-5","joy",0,0,0,NA
+"1092","Self-Consistency_APO50","GPT-5","love",0.2,1,0.2,0.333333333333333
+"1093","Self-Consistency_APO50","GPT-5","nervousness",0,0,0,NA
+"1094","Self-Consistency_APO50","GPT-5","neutral",0.4,0.0408163265306122,0.4,0.0740740740740741
+"1095","Self-Consistency_APO50","GPT-5","optimism",0,NA,0,NA
+"1096","Self-Consistency_APO50","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"1097","Self-Consistency_APO50","GPT-5","realization",0,NA,0,NA
+"1098","Self-Consistency_APO50","GPT-5","relief",0,NA,0,NA
+"1099","Self-Consistency_APO50","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1100","Self-Consistency_APO50","GPT-5","sadness",0.6,0.428571428571429,0.6,0.5
+"1101","Self-Consistency_APO50","GPT-5","surprise",0.4,0.5,0.4,0.444444444444444
+"1102","Self-Consistency_APO50","GPT-5","multiclass",0,0,0,NA
+"1103","Zero-shot","GPT-3.5","admiration",0.5,0.3,0.5,0.375
+"1104","Zero-shot","GPT-3.5","amusement",0.5,0.25,0.5,0.333333333333333
+"1105","Zero-shot","GPT-3.5","anger",0.5,0.428571428571429,0.5,0.461538461538462
+"1106","Zero-shot","GPT-3.5","annoyance",0.166666666666667,0.1,0.166666666666667,0.125
+"1107","Zero-shot","GPT-3.5","approval",0,0,0,NA
+"1108","Zero-shot","GPT-3.5","caring",0,0,0,NA
+"1109","Zero-shot","GPT-3.5","confusion",0.4,0.25,0.4,0.307692307692308
+"1110","Zero-shot","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"1111","Zero-shot","GPT-3.5","desire",0.2,1,0.2,0.333333333333333
+"1112","Zero-shot","GPT-3.5","disappointment",0,0,0,NA
+"1113","Zero-shot","GPT-3.5","disapproval",0.4,0.111111111111111,0.4,0.173913043478261
+"1114","Zero-shot","GPT-3.5","disgust",0.2,0.142857142857143,0.2,0.166666666666667
+"1115","Zero-shot","GPT-3.5","embarrassment",0,0,0,NA
+"1116","Zero-shot","GPT-3.5","excitement",0.4,0.4,0.4,0.4
+"1117","Zero-shot","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"1118","Zero-shot","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"1119","Zero-shot","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"1120","Zero-shot","GPT-3.5","joy",0.4,0.666666666666667,0.4,0.5
+"1121","Zero-shot","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"1122","Zero-shot","GPT-3.5","nervousness",0,NA,0,NA
+"1123","Zero-shot","GPT-3.5","neutral",0,0,0,NA
+"1124","Zero-shot","GPT-3.5","optimism",0.2,0.333333333333333,0.2,0.25
+"1125","Zero-shot","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1126","Zero-shot","GPT-3.5","realization",0.2,0.333333333333333,0.2,0.25
+"1127","Zero-shot","GPT-3.5","relief",0,NA,0,NA
+"1128","Zero-shot","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"1129","Zero-shot","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"1130","Zero-shot","GPT-3.5","surprise",0.6,1,0.6,0.75
+"1131","Zero-shot","GPT-3.5","multiclass",0,0.0526315789473684,0.2,0.0833333333333333
+"1132","Zero-shot","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"1133","Zero-shot","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"1134","Zero-shot","GPT-5","anger",0.166666666666667,1,0.166666666666667,0.285714285714286
+"1135","Zero-shot","GPT-5","annoyance",0.166666666666667,0.111111111111111,0.166666666666667,0.133333333333333
+"1136","Zero-shot","GPT-5","approval",0,0,0,NA
+"1137","Zero-shot","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"1138","Zero-shot","GPT-5","confusion",0.2,0.333333333333333,0.2,0.25
+"1139","Zero-shot","GPT-5","curiosity",0.4,0.666666666666667,0.4,0.5
+"1140","Zero-shot","GPT-5","desire",0,NA,0,NA
+"1141","Zero-shot","GPT-5","disappointment",0,0,0,NA
+"1142","Zero-shot","GPT-5","disapproval",0,0,0,NA
+"1143","Zero-shot","GPT-5","disgust",0.4,0.5,0.4,0.444444444444444
+"1144","Zero-shot","GPT-5","embarrassment",0,0,0,NA
+"1145","Zero-shot","GPT-5","excitement",0.2,0.333333333333333,0.2,0.25
+"1146","Zero-shot","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"1147","Zero-shot","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"1148","Zero-shot","GPT-5","grief",0,NA,0,NA
+"1149","Zero-shot","GPT-5","joy",0,NA,0,NA
+"1150","Zero-shot","GPT-5","love",0.4,0.5,0.4,0.444444444444444
+"1151","Zero-shot","GPT-5","nervousness",0,NA,0,NA
+"1152","Zero-shot","GPT-5","neutral",0,0,0,NA
+"1153","Zero-shot","GPT-5","optimism",0,0,0,NA
+"1154","Zero-shot","GPT-5","pride",0,0,0,NA
+"1155","Zero-shot","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"1156","Zero-shot","GPT-5","relief",0,NA,0,NA
+"1157","Zero-shot","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1158","Zero-shot","GPT-5","sadness",0.6,0.75,0.6,0.666666666666667
+"1159","Zero-shot","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"1160","Zero-shot","GPT-5","multiclass",0,0.025,0.2,0.0444444444444445
+"1161","Zero-shot_APO10","GPT-3.5","admiration",0.5,0.272727272727273,0.5,0.352941176470588
+"1162","Zero-shot_APO10","GPT-3.5","amusement",0.5,0.2,0.5,0.285714285714286
+"1163","Zero-shot_APO10","GPT-3.5","anger",0.5,0.375,0.5,0.428571428571429
+"1164","Zero-shot_APO10","GPT-3.5","annoyance",0.166666666666667,0.0769230769230769,0.166666666666667,0.105263157894737
+"1165","Zero-shot_APO10","GPT-3.5","approval",0,0,0,NA
+"1166","Zero-shot_APO10","GPT-3.5","caring",0,0,0,NA
+"1167","Zero-shot_APO10","GPT-3.5","confusion",0.4,0.25,0.4,0.307692307692308
+"1168","Zero-shot_APO10","GPT-3.5","curiosity",0.2,0.25,0.2,0.222222222222222
+"1169","Zero-shot_APO10","GPT-3.5","desire",0.2,1,0.2,0.333333333333333
+"1170","Zero-shot_APO10","GPT-3.5","disappointment",0,0,0,NA
+"1171","Zero-shot_APO10","GPT-3.5","disapproval",0.4,0.125,0.4,0.19047619047619
+"1172","Zero-shot_APO10","GPT-3.5","disgust",0.2,0.2,0.2,0.2
+"1173","Zero-shot_APO10","GPT-3.5","embarrassment",0,0,0,NA
+"1174","Zero-shot_APO10","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"1175","Zero-shot_APO10","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"1176","Zero-shot_APO10","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"1177","Zero-shot_APO10","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"1178","Zero-shot_APO10","GPT-3.5","joy",0.4,0.666666666666667,0.4,0.5
+"1179","Zero-shot_APO10","GPT-3.5","love",0,0,0,NA
+"1180","Zero-shot_APO10","GPT-3.5","nervousness",0,NA,0,NA
+"1181","Zero-shot_APO10","GPT-3.5","neutral",0,0,0,NA
+"1182","Zero-shot_APO10","GPT-3.5","optimism",0.2,0.333333333333333,0.2,0.25
+"1183","Zero-shot_APO10","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1184","Zero-shot_APO10","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"1185","Zero-shot_APO10","GPT-3.5","relief",0,NA,0,NA
+"1186","Zero-shot_APO10","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"1187","Zero-shot_APO10","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"1188","Zero-shot_APO10","GPT-3.5","surprise",0.6,1,0.6,0.75
+"1189","Zero-shot_APO10","GPT-3.5","multiclass",0,0.0526315789473684,0.2,0.0833333333333333
+"1190","Zero-shot_APO10","GPT-5","admiration",0.166666666666667,0.5,0.166666666666667,0.25
+"1191","Zero-shot_APO10","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"1192","Zero-shot_APO10","GPT-5","anger",0.166666666666667,0.5,0.166666666666667,0.25
+"1193","Zero-shot_APO10","GPT-5","annoyance",0,0,0,NA
+"1194","Zero-shot_APO10","GPT-5","approval",0,0,0,NA
+"1195","Zero-shot_APO10","GPT-5","caring",0.2,0.333333333333333,0.2,0.25
+"1196","Zero-shot_APO10","GPT-5","confusion",0.2,0.25,0.2,0.222222222222222
+"1197","Zero-shot_APO10","GPT-5","curiosity",0.4,0.5,0.4,0.444444444444444
+"1198","Zero-shot_APO10","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"1199","Zero-shot_APO10","GPT-5","disappointment",0,0,0,NA
+"1200","Zero-shot_APO10","GPT-5","disapproval",0,0,0,NA
+"1201","Zero-shot_APO10","GPT-5","disgust",0.4,0.5,0.4,0.444444444444444
+"1202","Zero-shot_APO10","GPT-5","embarrassment",0.2,0.5,0.2,0.285714285714286
+"1203","Zero-shot_APO10","GPT-5","excitement",0.2,0.25,0.2,0.222222222222222
+"1204","Zero-shot_APO10","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"1205","Zero-shot_APO10","GPT-5","gratitude",0.6,0.6,0.6,0.6
+"1206","Zero-shot_APO10","GPT-5","grief",0,NA,0,NA
+"1207","Zero-shot_APO10","GPT-5","joy",0,NA,0,NA
+"1208","Zero-shot_APO10","GPT-5","love",0.2,0.333333333333333,0.2,0.25
+"1209","Zero-shot_APO10","GPT-5","nervousness",0,NA,0,NA
+"1210","Zero-shot_APO10","GPT-5","neutral",0,0,0,NA
+"1211","Zero-shot_APO10","GPT-5","optimism",0.2,0.5,0.2,0.285714285714286
+"1212","Zero-shot_APO10","GPT-5","pride",0,0,0,NA
+"1213","Zero-shot_APO10","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"1214","Zero-shot_APO10","GPT-5","relief",0,NA,0,NA
+"1215","Zero-shot_APO10","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1216","Zero-shot_APO10","GPT-5","sadness",0.6,0.75,0.6,0.666666666666667
+"1217","Zero-shot_APO10","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"1218","Zero-shot_APO10","GPT-5","multiclass",0,0.0256410256410256,0.2,0.0454545454545455
+"1219","Zero-shot_APO20","GPT-3.5","admiration",0.5,0.272727272727273,0.5,0.352941176470588
+"1220","Zero-shot_APO20","GPT-3.5","amusement",0.5,0.230769230769231,0.5,0.315789473684211
+"1221","Zero-shot_APO20","GPT-3.5","anger",0.5,0.428571428571429,0.5,0.461538461538462
+"1222","Zero-shot_APO20","GPT-3.5","annoyance",0.166666666666667,0.0833333333333333,0.166666666666667,0.111111111111111
+"1223","Zero-shot_APO20","GPT-3.5","approval",0,0,0,NA
+"1224","Zero-shot_APO20","GPT-3.5","caring",0,0,0,NA
+"1225","Zero-shot_APO20","GPT-3.5","confusion",0.4,0.25,0.4,0.307692307692308
+"1226","Zero-shot_APO20","GPT-3.5","curiosity",0,0,0,NA
+"1227","Zero-shot_APO20","GPT-3.5","desire",0.2,1,0.2,0.333333333333333
+"1228","Zero-shot_APO20","GPT-3.5","disappointment",0,0,0,NA
+"1229","Zero-shot_APO20","GPT-3.5","disapproval",0.4,0.117647058823529,0.4,0.181818181818182
+"1230","Zero-shot_APO20","GPT-3.5","disgust",0.2,0.142857142857143,0.2,0.166666666666667
+"1231","Zero-shot_APO20","GPT-3.5","embarrassment",0,0,0,NA
+"1232","Zero-shot_APO20","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"1233","Zero-shot_APO20","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"1234","Zero-shot_APO20","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"1235","Zero-shot_APO20","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"1236","Zero-shot_APO20","GPT-3.5","joy",0.4,0.666666666666667,0.4,0.5
+"1237","Zero-shot_APO20","GPT-3.5","love",0.2,0.5,0.2,0.285714285714286
+"1238","Zero-shot_APO20","GPT-3.5","nervousness",0,NA,0,NA
+"1239","Zero-shot_APO20","GPT-3.5","neutral",0,0,0,NA
+"1240","Zero-shot_APO20","GPT-3.5","optimism",0.2,0.333333333333333,0.2,0.25
+"1241","Zero-shot_APO20","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1242","Zero-shot_APO20","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"1243","Zero-shot_APO20","GPT-3.5","relief",0,NA,0,NA
+"1244","Zero-shot_APO20","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"1245","Zero-shot_APO20","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"1246","Zero-shot_APO20","GPT-3.5","surprise",0.6,1,0.6,0.75
+"1247","Zero-shot_APO20","GPT-3.5","multiclass",0,0.05,0.2,0.08
+"1248","Zero-shot_APO20","GPT-5","admiration",0.333333333333333,1,0.333333333333333,0.5
+"1249","Zero-shot_APO20","GPT-5","amusement",0.666666666666667,0.333333333333333,0.666666666666667,0.444444444444444
+"1250","Zero-shot_APO20","GPT-5","anger",0,NA,0,NA
+"1251","Zero-shot_APO20","GPT-5","annoyance",0,0,0,NA
+"1252","Zero-shot_APO20","GPT-5","approval",0,0,0,NA
+"1253","Zero-shot_APO20","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"1254","Zero-shot_APO20","GPT-5","confusion",0.2,0.25,0.2,0.222222222222222
+"1255","Zero-shot_APO20","GPT-5","curiosity",0.4,0.666666666666667,0.4,0.5
+"1256","Zero-shot_APO20","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"1257","Zero-shot_APO20","GPT-5","disappointment",0,0,0,NA
+"1258","Zero-shot_APO20","GPT-5","disapproval",0.4,0.1,0.4,0.16
+"1259","Zero-shot_APO20","GPT-5","disgust",0,0,0,NA
+"1260","Zero-shot_APO20","GPT-5","embarrassment",0,0,0,NA
+"1261","Zero-shot_APO20","GPT-5","excitement",0.2,0.5,0.2,0.285714285714286
+"1262","Zero-shot_APO20","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"1263","Zero-shot_APO20","GPT-5","gratitude",0.4,0.666666666666667,0.4,0.5
+"1264","Zero-shot_APO20","GPT-5","grief",0,NA,0,NA
+"1265","Zero-shot_APO20","GPT-5","joy",0,NA,0,NA
+"1266","Zero-shot_APO20","GPT-5","love",0.6,0.6,0.6,0.6
+"1267","Zero-shot_APO20","GPT-5","nervousness",0,NA,0,NA
+"1268","Zero-shot_APO20","GPT-5","neutral",0.2,0.0625,0.2,0.0952380952380952
+"1269","Zero-shot_APO20","GPT-5","optimism",0,0,0,NA
+"1270","Zero-shot_APO20","GPT-5","pride",0.2,0.5,0.2,0.285714285714286
+"1271","Zero-shot_APO20","GPT-5","realization",0.2,0.333333333333333,0.2,0.25
+"1272","Zero-shot_APO20","GPT-5","relief",0,NA,0,NA
+"1273","Zero-shot_APO20","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1274","Zero-shot_APO20","GPT-5","sadness",0.6,0.5,0.6,0.545454545454545
+"1275","Zero-shot_APO20","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"1276","Zero-shot_APO20","GPT-5","multiclass",0,0.0465116279069767,0.4,0.0833333333333333
+"1277","Zero-shot_APO50","GPT-3.5","admiration",0.5,0.25,0.5,0.333333333333333
+"1278","Zero-shot_APO50","GPT-3.5","amusement",0.5,0.214285714285714,0.5,0.3
+"1279","Zero-shot_APO50","GPT-3.5","anger",0.5,0.375,0.5,0.428571428571429
+"1280","Zero-shot_APO50","GPT-3.5","annoyance",0.166666666666667,0.0909090909090909,0.166666666666667,0.117647058823529
+"1281","Zero-shot_APO50","GPT-3.5","approval",0,0,0,NA
+"1282","Zero-shot_APO50","GPT-3.5","caring",0,0,0,NA
+"1283","Zero-shot_APO50","GPT-3.5","confusion",0.4,0.25,0.4,0.307692307692308
+"1284","Zero-shot_APO50","GPT-3.5","curiosity",0,0,0,NA
+"1285","Zero-shot_APO50","GPT-3.5","desire",0.2,1,0.2,0.333333333333333
+"1286","Zero-shot_APO50","GPT-3.5","disappointment",0,0,0,NA
+"1287","Zero-shot_APO50","GPT-3.5","disapproval",0.4,0.117647058823529,0.4,0.181818181818182
+"1288","Zero-shot_APO50","GPT-3.5","disgust",0.2,0.2,0.2,0.2
+"1289","Zero-shot_APO50","GPT-3.5","embarrassment",0,0,0,NA
+"1290","Zero-shot_APO50","GPT-3.5","excitement",0.4,0.5,0.4,0.444444444444444
+"1291","Zero-shot_APO50","GPT-3.5","fear",0.2,0.5,0.2,0.285714285714286
+"1292","Zero-shot_APO50","GPT-3.5","gratitude",0.6,1,0.6,0.75
+"1293","Zero-shot_APO50","GPT-3.5","grief",0.2,1,0.2,0.333333333333333
+"1294","Zero-shot_APO50","GPT-3.5","joy",0.4,0.666666666666667,0.4,0.5
+"1295","Zero-shot_APO50","GPT-3.5","love",0,0,0,NA
+"1296","Zero-shot_APO50","GPT-3.5","nervousness",0,NA,0,NA
+"1297","Zero-shot_APO50","GPT-3.5","neutral",0,0,0,NA
+"1298","Zero-shot_APO50","GPT-3.5","optimism",0.2,0.333333333333333,0.2,0.25
+"1299","Zero-shot_APO50","GPT-3.5","pride",0.2,1,0.2,0.333333333333333
+"1300","Zero-shot_APO50","GPT-3.5","realization",0.2,0.5,0.2,0.285714285714286
+"1301","Zero-shot_APO50","GPT-3.5","relief",0,NA,0,NA
+"1302","Zero-shot_APO50","GPT-3.5","remorse",0.2,1,0.2,0.333333333333333
+"1303","Zero-shot_APO50","GPT-3.5","sadness",0.6,0.375,0.6,0.461538461538462
+"1304","Zero-shot_APO50","GPT-3.5","surprise",0.6,1,0.6,0.75
+"1305","Zero-shot_APO50","GPT-3.5","multiclass",0,0.0526315789473684,0.2,0.0833333333333333
+"1306","Zero-shot_APO50","GPT-5","admiration",0.333333333333333,0.666666666666667,0.333333333333333,0.444444444444444
+"1307","Zero-shot_APO50","GPT-5","amusement",0.5,0.25,0.5,0.333333333333333
+"1308","Zero-shot_APO50","GPT-5","anger",0,0,0,NA
+"1309","Zero-shot_APO50","GPT-5","annoyance",0,0,0,NA
+"1310","Zero-shot_APO50","GPT-5","approval",0,0,0,NA
+"1311","Zero-shot_APO50","GPT-5","caring",0.2,0.25,0.2,0.222222222222222
+"1312","Zero-shot_APO50","GPT-5","confusion",0.2,0.25,0.2,0.222222222222222
+"1313","Zero-shot_APO50","GPT-5","curiosity",0.2,0.333333333333333,0.2,0.25
+"1314","Zero-shot_APO50","GPT-5","desire",0.2,0.5,0.2,0.285714285714286
+"1315","Zero-shot_APO50","GPT-5","disappointment",0,0,0,NA
+"1316","Zero-shot_APO50","GPT-5","disapproval",0,0,0,NA
+"1317","Zero-shot_APO50","GPT-5","disgust",0.2,0.25,0.2,0.222222222222222
+"1318","Zero-shot_APO50","GPT-5","embarrassment",0,0,0,NA
+"1319","Zero-shot_APO50","GPT-5","excitement",0.2,0.333333333333333,0.2,0.25
+"1320","Zero-shot_APO50","GPT-5","fear",0.2,0.5,0.2,0.285714285714286
+"1321","Zero-shot_APO50","GPT-5","gratitude",0.4,0.5,0.4,0.444444444444444
+"1322","Zero-shot_APO50","GPT-5","grief",0,NA,0,NA
+"1323","Zero-shot_APO50","GPT-5","joy",0,NA,0,NA
+"1324","Zero-shot_APO50","GPT-5","love",0.4,1,0.4,0.571428571428572
+"1325","Zero-shot_APO50","GPT-5","nervousness",0,NA,0,NA
+"1326","Zero-shot_APO50","GPT-5","neutral",0,0,0,NA
+"1327","Zero-shot_APO50","GPT-5","optimism",0,0,0,NA
+"1328","Zero-shot_APO50","GPT-5","pride",0,0,0,NA
+"1329","Zero-shot_APO50","GPT-5","realization",0.2,0.25,0.2,0.222222222222222
+"1330","Zero-shot_APO50","GPT-5","relief",0,NA,0,NA
+"1331","Zero-shot_APO50","GPT-5","remorse",0.2,1,0.2,0.333333333333333
+"1332","Zero-shot_APO50","GPT-5","sadness",0.6,0.6,0.6,0.6
+"1333","Zero-shot_APO50","GPT-5","surprise",0.6,0.5,0.6,0.545454545454545
+"1334","Zero-shot_APO50","GPT-5","multiclass",0,0.024390243902439,0.2,0.0434782608695652
+"1335","Active Prompting","GPT-3.5","overall",0.144827586206897,0.411914600550964,0.16551724137931,0.355417306707629
+"1336","Active Prompting","GPT-5","overall",0.120689655172414,0.319451381951382,0.141379310344828,0.357371420790538
+"1337","Active Prompting_APO10","GPT-3.5","overall",0.125287356321839,0.362615283267457,0.152873563218391,0.306163167776071
+"1338","Active Prompting_APO10","GPT-5","overall",0.13448275862069,0.372710622710623,0.155172413793103,0.352763605442177
+"1339","Active Prompting_APO20","GPT-3.5","overall",0.172413793103448,0.425021312872975,0.2,0.338953022286356
+"1340","Active Prompting_APO20","GPT-5","overall",0.13448275862069,0.391352680241569,0.141379310344828,0.374542625637017
+"1341","Active Prompting_APO50","GPT-3.5","overall",0.126436781609195,0.348148148148148,0.147126436781609,0.342763669079459
+"1342","Active Prompting_APO50","GPT-5","overall",0.160919540229885,0.424758033294619,0.181609195402299,0.341708522489456
+"1343","Auto-CoT","GPT-3.5","overall",0.24367816091954,0.329440836940837,0.24367816091954,0.352685075502413
+"1344","Auto-CoT","GPT-5","overall",0.158620689655172,0.35210907105317,0.172413793103448,0.33562164565454
+"1345","Auto-CoT_APO10","GPT-3.5","overall",0.24367816091954,0.335224880382775,0.24367816091954,0.335838700515171
+"1346","Auto-CoT_APO10","GPT-5","overall",0.191954022988506,0.411284722222222,0.198850574712644,0.333785292275858
+"1347","Auto-CoT_APO20","GPT-3.5","overall",0.250574712643678,0.353201070858966,0.250574712643678,0.348271267947739
+"1348","Auto-CoT_APO20","GPT-5","overall",0.179310344827586,0.386837343633105,0.193103448275862,0.321655710544599
+"1349","Auto-CoT_APO50","GPT-3.5","overall",0.250574712643678,0.357744360902256,0.250574712643678,0.351693223443223
+"1350","Auto-CoT_APO50","GPT-5","overall",0.159770114942529,0.317832388153749,0.173563218390805,0.33145318733554
+"1351","DSPy_100","GPT-3.5","overall",0.148275862068966,0.360358887144601,0.175862068965517,0.328308831404807
+"1352","DSPy_100","GPT-5","overall",0.0942528735632184,0.43109243697479,0.12183908045977,0.340139658321477
+"1353","DSPy_200","GPT-3.5","overall",0.174712643678161,0.410502079619727,0.202298850574713,0.339898663428075
+"1354","DSPy_200","GPT-5","overall",0.120689655172414,0.420445344129555,0.148275862068966,0.412660682844169
+"1355","DSPy_300","GPT-3.5","overall",0.206896551724138,0.409964102564103,0.227586206896552,0.366734772322699
+"1356","DSPy_300","GPT-5","overall",0.101149425287356,0.447213203463203,0.128735632183908,0.360414464762291
+"1357","Few-shot","GPT-3.5","overall",0.251724137931034,0.338059856809857,0.251724137931034,0.364601274198797
+"1358","Few-shot","GPT-5","overall",0.208045977011494,0.354423069403715,0.214942528735632,0.347857388569463
+"1359","Few-shot_APO10","GPT-3.5","overall",0.245977011494253,0.33467920967921,0.245977011494253,0.358922589801578
+"1360","Few-shot_APO10","GPT-5","overall",0.214942528735632,0.346508009097056,0.22183908045977,0.314498930885486
+"1361","Few-shot_APO20","GPT-3.5","overall",0.251724137931034,0.340513448969331,0.251724137931034,0.36647601064077
+"1362","Few-shot_APO20","GPT-5","overall",0.214942528735632,0.340975340449025,0.22183908045977,0.319427227526329
+"1363","Few-shot_APO50","GPT-3.5","overall",0.239080459770115,0.346873959373959,0.239080459770115,0.35661540042345
+"1364","Few-shot_APO50","GPT-5","overall",0.213793103448276,0.349847588309127,0.220689655172414,0.304592440252264
+"1365","Self-Consistency","GPT-3.5","overall",0.183908045977011,0.279625199362041,0.183908045977011,0.3541287772057
+"1366","Self-Consistency","GPT-5","overall",0.164367816091954,0.293892654193962,0.164367816091954,0.304550341102065
+"1367","Self-Consistency_APO10","GPT-3.5","overall",0.182758620689655,0.28915698336751,0.182758620689655,0.334419574281325
+"1368","Self-Consistency_APO10","GPT-5","overall",0.164367816091954,0.318983692767887,0.164367816091954,0.304073241573242
+"1369","Self-Consistency_APO20","GPT-3.5","overall",0.177011494252874,0.290941120918238,0.177011494252874,0.333754206300625
+"1370","Self-Consistency_APO20","GPT-5","overall",0.157471264367816,0.292164546978212,0.157471264367816,0.302369515391828
+"1371","Self-Consistency_APO50","GPT-3.5","overall",0.189655172413793,0.327668951418951,0.196551724137931,0.320732251505557
+"1372","Self-Consistency_APO50","GPT-5","overall",0.171264367816092,0.338110698824985,0.171264367816092,0.314456839456839
+"1373","Zero-shot","GPT-3.5","overall",0.24367816091954,0.407166836845199,0.250574712643678,0.34159089702568
+"1374","Zero-shot","GPT-5","overall",0.185057471264368,0.346643518518518,0.191954022988506,0.354914693149987
+"1375","Zero-shot_APO10","GPT-3.5","overall",0.236781609195402,0.39545488624436,0.24367816091954,0.344617091100948
+"1376","Zero-shot_APO10","GPT-5","overall",0.18735632183908,0.341692307692308,0.194252873563218,0.32750816435027
+"1377","Zero-shot_APO20","GPT-3.5","overall",0.236781609195402,0.405589091373405,0.24367816091954,0.348762689306696
+"1378","Zero-shot_APO20","GPT-5","overall",0.2,0.346208817829457,0.213793103448276,0.341364438031105
+"1379","Zero-shot_APO50","GPT-3.5","overall",0.229885057471264,0.386128646035767,0.236781609195402,0.350657022715846
+"1380","Zero-shot_APO50","GPT-5","overall",0.159770114942529,0.288308943089431,0.166666666666667,0.329764649601606

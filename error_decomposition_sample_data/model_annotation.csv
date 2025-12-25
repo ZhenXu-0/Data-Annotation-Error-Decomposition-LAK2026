@@ -1,0 +1,151 @@
+,outcome_id,learning_outcome,human_category,model_category,exact_match
+1,0,"Demonstrate research skills including accessing the existing literature, analysing data, and where appropriate developing and checking mathematical models;",apply,analyze,FALSE
+2,1,"Identify local, national and international people and events relevant to current issues and media issues related to lifestyle journalism.",remember,analyze,FALSE
+3,2,Assess space-time coding schemes that are capable of improving the channel capacity of wireless systems.,evaluate,analyze,FALSE
+4,3,Analyse activist art critically in a manner that reveals the strengths and weaknesses of different artistic approaches;,analyze,analyze,TRUE
+5,4,Analyse the psychosocial impact of a chronic wound on the individual's quality of life.,analyze,analyze,TRUE
+6,5,develop an understanding of a constructivist perspective on learning and its implications and a variety of assessment techniques available for use in mathematics education classrooms,understand,understand,TRUE
+7,6,Demonstrate a detailed knowledge of contemporary Australian art and the various art institutions of Melbourne;,apply,understand,FALSE
+8,7,Further develop oral skills in legal argumentation in class discussions.,create,apply,FALSE
+9,8,Conduct interviews and gather appropriate evidentiary material in the appropriate medium;,apply,create,FALSE
+10,9,Research and analyse contextual information and theoretical approaches to the understanding of election law at both a national and trans-national level.,analyze,analyze,TRUE
+11,10,evaluate philosophical arguments in their original historical-intellectual context;,evaluate,analyze,FALSE
+12,11,Identify the different types of environmental assessments and the decision-making contexts in which they are applied.,remember,analyze,FALSE
+13,12,Explain the mechanisms of DNA replication and expression of genetic information.,understand,analyze,FALSE
+14,13,Reflect upon skills required to work in the area of sustainable development and identify skills they wish to develop further and;,remember,evaluate,FALSE
+15,14,Identify the unique attributes and diverse nature of Information Technology projects;,remember,analyze,FALSE
+16,15,Interpret and apply the principles of food safety management such as GMP and HACCP principles and articulate how these are put into practice in different operational settings;,apply,analyze,FALSE
+17,16,Critically evaluate the role of leadership in ensemble performance.,evaluate,evaluate,TRUE
+18,17,"Demonstrate awareness of the varying use of key concepts across the fields (for example, 'medium', 'audience', 'discourse', 'culture', 'genre' and 'power')",apply,analyze,FALSE
+19,18,demonstrate how digital forensics can be employed by Police and Tax officials in a court of law.,apply,apply,TRUE
+20,19,"Communicate the nature and application of behavioural and psychosocial interventions for both professional and lay audiences, including low literate audiences.",create,understand,FALSE
+21,20,Explain how the institutions of the Australian legal system shape the content and administration of the law,understand,analyze,FALSE
+22,21,"Communicate clearly the key concepts of the unit across a range of styles and technologies using spoken, diagrammatic and written forms.",create,create,TRUE
+23,22,Have obtained in-depth understanding of nonverbal communications;,understand,understand,TRUE
+24,23,"transform the intended learning of the primary mathematics curriculum into effective lessons that encourage positive dispositions, curiosity and engagement, including use of digital technologies to expand learning opportunities for learners",create,create,TRUE
+25,24,"explore effective ways to plan, teach and assess learning experiences to develop young children's early reading, writing, oral language and new literacies",create,create,TRUE
+26,25,"Create a comprehensive case formulation for a young person drawing together developmental history, and construct an appropriate treatment plan;",create,create,TRUE
+27,26,"Compare and contrast the microbial pathogenesis, transmission, diagnosis, prevention and treatment of different infections;",evaluate,analyze,FALSE
+28,27,"Communicate effectively with people who are experiencing disturbances of thoughts, feelings and behaviour.",create,apply,FALSE
+29,28,"Demonstrate understanding of fundamental legal challenges created by the intersection ofethical, policy and governance mechanisms in the context of digital technology.",understand,analyze,FALSE
+30,29,"Discuss the evolving role of the emperor during the Julio-Claudian dynasty, especially how the position was shaped by the individual personality of the incumbent and the response from across the Roman social spectrum",understand,analyze,FALSE
+31,30,"Identify, observe key ethical and legal obligations associated with news reporting, and reflect critically on their own and others' performance in this regard",remember,evaluate,FALSE
+32,31,To foster knowledge about Australia's democratic institutions and their inter-relationship with the community and with the processes of government,remember,understand,FALSE
+33,32,"Describe concepts and perform calculations in quantum mechanics, using the Dirac and Schrodinger formalism, and apply this knowledge to the analytical solution of model quantum systems.",apply,analyze,FALSE
+34,33,"Design experiments, and identify common flaws in experimental design that arise in biological research.",remember,analyze,FALSE
+35,34,understand the key principles of utilising systems of support within schools and systems,understand,understand,TRUE
+36,35,integrate retail marketing and brand management strategies to maximise the effectiveness of retailing practice.,create,create,TRUE
+37,36,Demonstrate language proficiency equivalent to Common European Framework of Reference (CEFR) level B1,apply,understand,FALSE
+38,37,A practical understanding of the uses of a range of commercial ADR processes.,understand,understand,TRUE
+39,38,To have acquired further knowledge of some important techniques of translation between Chinese and English;,remember,understand,FALSE
+40,39,Explain the principles that underpin contemporary health promotion;,understand,understand,TRUE
+41,40,Propose a differential diagnosis (list) at a basic level for specified systems.,create,analyze,FALSE
+42,41,"examine the cultural, political, and institutional issues that influence the business activities in the selected countries",analyze,analyze,TRUE
+43,42,Analyse the life cycle of a mining project and understand the fundamentals of systems engineering.,analyze,analyze,TRUE
+44,43,identify the features of selected contemporary cognitive behavioural therapies,remember,analyze,FALSE
+45,44,identify everyday opportunities in a range of settings that foster young children's mathematical thinking and reasoning,remember,analyze,FALSE
+46,45,"develop the skills to critically examine contemporary issues such as labour mobility, labour market discrimination and income inequality.",analyze,evaluate,FALSE
+47,46,Produce a geological map and cross-sections from field observations;,create,create,TRUE
+48,47,Design and model document-store and wide column-store databases;,create,create,TRUE
+49,48,examine the role of business processes and the use of accounting information systems in capturing and managing information that support the needs of stakeholders,analyze,analyze,TRUE
+50,49,Assess new polymer-based technologies and critique the advantages and disadvantages relevant to other non-polymer based technologies,evaluate,evaluate,TRUE
+51,50,Critically analyse the diagnostic classification systems used in mental health and the impact on consumers,analyze,analyze,TRUE
+52,51,critically evaluate academic literature and present in written and/or oral form key arguments related to the research project.,evaluate,evaluate,TRUE
+53,52,"apply critical thinking, research, problem solving, and written and oral communication skills to demonstrate the acquisition of a comprehensive understanding of the topics covered by this unit.",apply,evaluate,FALSE
+54,53,"Create a specific research question and formulate a response to this question by identifying, analysing and synthesising relevant published research;",remember,create,FALSE
+55,54,"Appraise and justify various teamwork skills for various situations, demonstrating the ability to apply them by working cooperatively and managing conflict within their team;",evaluate,evaluate,TRUE
+56,55,Apply relevant key concepts in the interpretation of screen and social justice issues;,apply,apply,TRUE
+57,56,demonstrate in an individual summative assessment task the acquisition of a comprehensive understanding of the topics covered by BFF5977.,understand,understand,TRUE
+58,57,Understand key principles in the organisation and funding of health systems.,understand,understand,TRUE
+59,58,"demonstrate advanced understanding and application of operations and logistics theory, challenges, methods, tools and frameworks",understand,analyze,FALSE
+60,59,"Apply knowledge of these physiological systems to determine how they respond to changes in physiological states under normal activity (e.g., exercise) or environmental demands (e.g., living in cold condition;",apply,apply,TRUE
+61,60,assess on-the-job performance to create performance goals and expectations,evaluate,evaluate,TRUE
+62,61,describe how to initiate a project by defining the project goal and identifying the priorities,remember,apply,FALSE
+63,62,develop an improved understanding of how professional policies are formulated in preparation of accounting for various financial accounting issues with particular reference to current practice,understand,analyze,FALSE
+64,63,Identify the various determinants of health and describe how these affect health care provision and create inequalities in health.,remember,analyze,FALSE
+65,64,"Analyse the natural resources required to support ecosystems, the human impact on these natural resources and ecosystems, and their sustainable management.",analyze,analyze,TRUE
+66,65,"understand the basic characteristics of financial accounting, auditing, and managerial accounting",understand,understand,TRUE
+67,66,test for unit roots in univariate time series,analyze,analyze,TRUE
+68,67,"Evaluate the integral role of retrieval medicine within the broader health care system, identifying all of the factors to be considered when coordinating an aero medical retrieval;",evaluate,evaluate,TRUE
+69,68,"Describe the properties of elementary functions by means of tables, graphs and mathematical expressions;",understand,analyze,FALSE
+70,69,perform ultra-high resolution materials structure analysis using a combination of diffraction techniques,analyze,analyze,TRUE
+71,70,Assess the quality of evidence derived from nursing and midwifery research literature.,evaluate,evaluate,TRUE
+72,71,"Discuss a range of behavioural, social and cultural, environmental and political determinants that create health and cause ill-health and inequalities;",understand,analyze,FALSE
+73,72,"Develop professional competence in written, verbal and graphic communication skills;",create,create,TRUE
+74,73,Evaluate best sources of knowledge for practical information needs.,evaluate,evaluate,TRUE
+75,74,Demonstrate advanced airway management skills including drug facilitated intubation.,apply,apply,TRUE
+76,75,"Debate and critically analyse the treatment of indigenous rights in Australia, Canada, New Zealand and United States;",analyze,analyze,TRUE
+77,76,"Categorise major techniques and approaches to software verification: theorem proving, model checking and model-based testing;",create,analyze,FALSE
+78,77,Use practical skills to computationally model astrophysical systems.,apply,apply,TRUE
+79,78,Knowledge of the important components of experimental design,remember,analyze,FALSE
+80,79,"Outline and analyse how the cardiovascular, respiratory, sensory and endocrine systems respond to exercise in normal and extreme environments;",analyze,analyze,TRUE
+81,80,Peer review the work of other students and receive constructive feedback.,evaluate,evaluate,TRUE
+82,81,"demonstrate a nuanced understanding of the complex and multifaceted issues that influence educational policy-making and leadership across national and international dimensions such as gender, economics, politics, and culture",understand,analyze,FALSE
+83,82,"Have a thorough understanding of the methods, capabilities and applications of electron microscopy for the characterization of advanced materials.",understand,understand,TRUE
+84,83,"Locate, assess, and analyse historical evidence and debates;",analyze,analyze,TRUE
+85,84,critically analyse moderation approaches for ethically maintaining and managing a safe digital community;,analyze,analyze,TRUE
+86,85,Describe the historical and contemporary issues that influence Human Services practice,understand,analyze,FALSE
+87,86,Distinguish between employees and other kinds of workers and critically evaluate the implications of the distinction for workers and employers;,evaluate,evaluate,TRUE
+88,87,Identify methods used for genetic diagnosis and screening of pre-implantation embryos,remember,analyze,FALSE
+89,88,Explain changing delivery platforms for television and the ways contemporary television seeks new audiences;,understand,analyze,FALSE
+90,89,"Implement strategies to empower consumers and carers, service providers and community leaders, to determine and set priorities for change, facilitate decision making and advocate service options through the sharing of resources in a mutual educational process.",apply,create,FALSE
+91,90,Be able to critically reflect on their and others performance during the production process,analyze,evaluate,FALSE
+92,91,compare and contrast perspectives within theoretical debates about the classification of certain actions as crime;,evaluate,analyze,FALSE
+93,92,Reflect effectively on the making process and the value of trial and error,analyze,evaluate,FALSE
+94,93,Generate and present respectful scholarship that is informed by Indigenous and non-Indigenous perspectives on racialised inequality within the criminal justice system.,create,create,TRUE
+95,94,"Research a story, conduct interviews and gather appropriate actuality material in the sound medium to produce an audio broadcast;",create,create,TRUE
+96,95,Examine whether and how curriculum alignment meets stated aims of greater equity around learners' educational outcomes,analyze,analyze,TRUE
+97,96,"Identify appropriate competencies for the practice domains that intersect with mental health, including legal and statutory responsibilities.",remember,analyze,FALSE
+98,97,"identify the goals of behaviour analysis as a science (i.e., description, prediction, control)",remember,understand,FALSE
+99,98,"Describe different quantitative and quantitative research methods and methodologies, and critique research strategies relevant to occupational therapy practice.",evaluate,evaluate,TRUE
+100,99,Formulate and communicate strategies to provide safe and nutritious food in food service settings.,create,create,TRUE
+101,100,Knowledge of key concepts and perspectives used in sociological analysis;,remember,understand,FALSE
+102,101,Identify the policy and related funding issues surrounding care and treatment of the client with stable or progressive neurological disease;,remember,analyze,FALSE
+103,102,Discuss the limitations of techniques available to manipulate reproduction in animals,understand,analyze,FALSE
+104,103,Manage workloads to meet deadlines;,apply,apply,TRUE
+105,104,"Summarise research findings concisely, clearly and sequentially;",create,understand,FALSE
+106,105,Identify promising new research areas in the context of theoretical debates in their discipline;,remember,analyze,FALSE
+107,106,Critically evaluate controversial nutrition issues in local and international settings.,evaluate,evaluate,TRUE
+108,107,"Evaluate the evidence-base for management strategies or interventions with children, adolescents and their families presenting with mental health difficulties.",evaluate,evaluate,TRUE
+109,108,Recognise and reflect of how Australian lawyers might adapt when dealing with Asian legal institutions and legal professionals,remember,analyze,FALSE
+110,109,"Demonstrate an awareness of the reach and importance of numerical methods in science, engineering, finance and technology.",apply,understand,FALSE
+111,110,demonstrate reflective skills regarding the use of cognitive tests in professional practice.,apply,evaluate,FALSE
+112,111,"Synthesise the complex interacting factors that contribute to notions of culture and cultural relationships, health and illness and multicultural diversity to professional practice and citizenship.",create,analyze,FALSE
+113,112,Conduct research in corporate insolvency law based on knowledge of appropriate research principle and methods,apply,analyze,FALSE
+114,113,"Evaluate the key factors in shaping the evolution of cinema as a technology, as a business and as an art;",evaluate,evaluate,TRUE
+115,114,understand the roles and functions of different marketing stakeholders,understand,understand,TRUE
+116,115,Convey to a non-specialist audience the relevance and value of genetics to human society;,create,understand,FALSE
+117,116,"demonstrate your capacity to incorporate Aboriginal and Torres Strait Islander/First People's histories, cultures and languages into sport and games delivery.",apply,create,FALSE
+118,117,Prepare a cohesive human ethics application covering a project focussed on research using human materials or for human clinical applications;,create,create,TRUE
+119,118,"To understand signals as fractal and non fractal and how they can be faithfully recorded, analysed and modified by systems",analyze,analyze,TRUE
+120,119,Demonstrate skills and knowledge in the presentation of evidence in court.,apply,apply,TRUE
+121,120,Differentiate between mobile data and traditional stationery databases;,analyze,analyze,TRUE
+122,121,Describe and explain basic risk and emergency management principles.,understand,understand,TRUE
+123,122,Apply research and critical thinking skills.,apply,apply,TRUE
+124,123,"Analyse the processes of perception and observational drawing to represent spaces, objects, forms and structures, in relation to ideas, narratives and research;",analyze,analyze,TRUE
+125,124,Demonstrate a basic understanding of techniques applicable to the visual analysis of interior architecture;,understand,understand,TRUE
+126,125,"Analyse fairy tales through cultural, ideological and historical frameworks.",analyze,analyze,TRUE
+127,126,"Evaluate a patient's pain or dermatitis condition and create a complete, patient-specific care plan which applies established clinical guidelines and a comprehensive clinical review of potential drug-related problems.",evaluate,create,FALSE
+128,127,Summarise issues of cultural context and ethical principles in health research,evaluate,analyze,FALSE
+129,128,identify professional learning needs through critical reflection of practicum experiences,remember,analyze,FALSE
+130,129,"demonstrate a range of relevant scholarship/research skills in acquiring, integrating, interpreting, synthesising, utilising and communicating theory and methodological knowledge from key academic literature in a specified area of management",apply,evaluate,FALSE
+131,130,plan and reflect on engaging lessons using communicative objectives and activities,create,create,TRUE
+132,131,You will gain an ability to use geoscientific data to undertake an economic assessment of a mineral exploration program including the cost of the program and the size of the target required to economically develop a mine.,create,apply,FALSE
+133,132,Be aware of current discourses in a range of disciplines which bear on contemporary design;,understand,analyze,FALSE
+134,133,"Explain and reflect upon the purpose, operation, success and value of the developed project in writing and orally;",create,evaluate,FALSE
+135,134,"Identify the anatomical, hormonal and molecular components of the male and female reproductive system",remember,analyze,FALSE
+136,135,Acquire basic culinary skills and knowledge in food preparation.,apply,apply,TRUE
+137,136,"Communicate effectively, appropriately and persuasively on issues pertaining to Administrative Law;",create,evaluate,FALSE
+138,137,Locate and critically evaluate literature relevant to the chosen research projectThemeslabel Inquiry and innovation,evaluate,evaluate,TRUE
+139,138,Critically analyse the clinical issues supporting and complicating advanced practice in paediatric nursing;,analyze,analyze,TRUE
+140,139,Combine advanced problem-solving skills to evaluate issues involving medical and forensic genetics;,evaluate,evaluate,TRUE
+141,140,Distinguish between normal abnormal radiographic images of these body regions;,analyze,analyze,TRUE
+142,141,"Show initiative and independence, and manage your time and resources effectively to complete a project within allocated time scales.",apply,create,FALSE
+143,142,critically compare and contrast a range of cross-cultural variables in the international business management environment and understand their impact on international management.,evaluate,analyze,FALSE
+144,143,build upon existing concepts developed in previous courses and to outline the basic principles underlying more advanced methods of inference,create,analyze,FALSE
+145,144,describe how auditors identify and assess going concern problems,remember,analyze,FALSE
+146,145,Apply knowledge of experimental design with regard to ethical and safety regulations,apply,apply,TRUE
+147,146,critically assess the strengths and weaknesses of different mechanisms for regulating business behaviour,evaluate,evaluate,TRUE
+148,147,identify how changes across schooling contexts might impact teacher/student relationships,remember,analyze,FALSE
+149,148,Analyse musical elements including free-tonal harmony;,analyze,analyze,TRUE
+150,149,Evaluate the efficacy of population-based interventions to manage chronic diseases.,evaluate,evaluate,TRUE

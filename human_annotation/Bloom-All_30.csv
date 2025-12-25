@@ -1,0 +1,91 @@
+Annotator,ID,Learning_outcome,Remember,Understand,Apply,Analyze,Evaluate,Create
+groundtruth,1,Develop a plan for their first internship.,,,,,,1
+groundtruth,2,evaluate several different design options and formulate a simple network design.,,,,,1,
+groundtruth,3,Demonstrate awareness of current discourses in a range of disciplines which bear on contemporary design;,,,1,,,
+groundtruth,4,develop effective report writing and communication skills,,,,,,1
+groundtruth,5,identify effective teaching strategies and resources for learning,1,,,,,
+groundtruth,6,Communicate competently in a professional setting in a second or additional language;,,,,,,1
+groundtruth,7,Evaluate different algorithms and implementations of basic abstract data types;,,,,,1,
+groundtruth,8,Reflect on the role and effectiveness of law in regulating and facilitating commercial transactions.,,,,1,,
+groundtruth,9,"Describe the basic biology of newborn, adult and tissue-specific stem cells and the status of research into their characterisation and role in health and disease;",,1,,,,
+groundtruth,10,"Use cognitive, technical and creative skills to generate and evaluate at an abstract level complex ideas and concepts relevant to planning and environment law.",,,1,,1,1
+groundtruth,11,Demonstrate your individual design skills and thinking through a bespoke design methodology;,,,1,,,
+groundtruth,12,"Engage in an internationalised world and exhibit cross-cultural competence, through a deeper understanding the history of another culture and its political system",,1,,,,
+groundtruth,13,"Apply social psychology theories to a range of contemporary social questions, including belonging, identity, attraction, aggression, conflict and negotiation.",,,1,,,
+groundtruth,14,Engage in critical analysis and make reasoned and appropriate choices among alternatives;,,,,,1,
+groundtruth,15,explain the key concepts and theories in Politics and International Relations;,,1,,,,
+groundtruth,16,Formulate research questions that are congruent with a chosen research approach,,,,,,1
+groundtruth,17,compare and contrast various protocols used in the Internet and contemporary applications,,,,,1,
+groundtruth,18,Demonstrate an understanding of the purpose of providing timely and appropriate feedback and reporting to students and parents using accurate and reliable records of student achievement.,,1,,,,
+groundtruth,19,Apply principles of cross- and intercultural engagement in various contexts.,,,1,,,
+groundtruth,20,Analyse a variety of source materials,,,,1,,
+groundtruth,21,develop a comprehensive grounding in a number of quantitative methods of data production and analysis,,,,,,1
+groundtruth,22,Demonstrate research skills by conducting an ethnographic project.,,,1,,,
+groundtruth,23,"Use software packages, such as MUSIC and Aquacycle, for IUWM design and assessment",,,1,,,
+groundtruth,24,"Investigate, analyse and synthesise complex information, problems, concepts and theories in relation to energy law, regulation and policy;",,,,1,,1
+groundtruth,25,Demonstrates insight and makes plans for continuous professional development in collaboration with peers and mentors to advance learning in Nutrition Science.,,,1,,,
+groundtruth,26,To foster knowledge about Australia's democratic institutions and their inter-relationship with the community and with the processes of government,1,,,,,
+groundtruth,27,"Identify, observe key ethical and legal obligations associated with news reporting, and reflect critically on their own and others' performance in this regard",1,,,,,
+groundtruth,28,Identify the different types of environmental assessments and the decision-making contexts in which they are applied.,1,,,,,
+groundtruth,29,Assess space-time coding schemes that are capable of improving the channel capacity of wireless systems.,,,,,1,
+groundtruth,30,Reflect upon skills required to work in the area of sustainable development and identify skills they wish to develop further and;,1,,,,,
+A1,1,Develop a plan for their first internship.,,,,,,1
+A1,2,evaluate several different design options and formulate a simple network design.,,,,,1,1
+A1,3,Demonstrate awareness of current discourses in a range of disciplines which bear on contemporary design;,,1,,,,
+A1,4,develop effective report writing and communication skills,,,,,,1
+A1,5,identify effective teaching strategies and resources for learning,1,,,,,
+A1,6,Communicate competently in a professional setting in a second or additional language;,,,,,,1
+A1,7,Evaluate different algorithms and implementations of basic abstract data types;,,,,,1,
+A1,8,Reflect on the role and effectiveness of law in regulating and facilitating commercial transactions.,,,,1,,
+A1,9,"Describe the basic biology of newborn, adult and tissue-specific stem cells and the status of research into their characterisation and role in health and disease;",,1,,,,
+A1,10,"Use cognitive, technical and creative skills to generate and evaluate at an abstract level complex ideas and concepts relevant to planning and environment law.",,,1,,1,1
+A1,11,Demonstrate your individual design skills and thinking through a bespoke design methodology;,,,1,,,
+A1,12,"Engage in an internationalised world and exhibit cross-cultural competence, through a deeper understanding the history of another culture and its political system",,,1,,,
+A1,13,"Apply social psychology theories to a range of contemporary social questions, including belonging, identity, attraction, aggression, conflict and negotiation.",,,1,,,
+A1,14,Engage in critical analysis and make reasoned and appropriate choices among alternatives;,,,,,1,
+A1,15,explain the key concepts and theories in Politics and International Relations;,,1,,,,
+A1,16,Formulate research questions that are congruent with a chosen research approach,,,,,,1
+A1,17,compare and contrast various protocols used in the Internet and contemporary applications,,,,,1,
+A1,18,Demonstrate an understanding of the purpose of providing timely and appropriate feedback and reporting to students and parents using accurate and reliable records of student achievement.,,1,,,,
+A1,19,Apply principles of cross- and intercultural engagement in various contexts.,,,1,,,
+A1,20,Analyse a variety of source materials,,,1,,,
+A1,21,develop a comprehensive grounding in a number of quantitative methods of data production and analysis,,,,,,1
+A1,22,Demonstrate research skills by conducting an ethnographic project.,,,,,,1
+A1,23,"Use software packages, such as MUSIC and Aquacycle, for IUWM design and assessment",,,1,,,
+A1,24,"Investigate, analyse and synthesise complex information, problems, concepts and theories in relation to energy law, regulation and policy;",,,,,,1
+A1,25,Demonstrates insight and makes plans for continuous professional development in collaboration with peers and mentors to advance learning in Nutrition Science.,,,,1,,
+A1,26,To foster knowledge about Australia's democratic institutions and their inter-relationship with the community and with the processes of government,1,,,,,
+A1,27,"Identify, observe key ethical and legal obligations associated with news reporting, and reflect critically on their own and others' performance in this regard",,1,,,,
+A1,28,Identify the different types of environmental assessments and the decision-making contexts in which they are applied.,1,,,,,
+A1,29,Assess space-time coding schemes that are capable of improving the channel capacity of wireless systems.,,,,,1,
+A1,30,Reflect upon skills required to work in the area of sustainable development and identify skills they wish to develop further and;,,1,,,,
+A2,1,Develop a plan for their first internship.,,,,,,1
+A2,2,evaluate several different design options and formulate a simple network design.,,,,,1,
+A2,3,Demonstrate awareness of current discourses in a range of disciplines which bear on contemporary design;,,1,,,,
+A2,4,develop effective report writing and communication skills,,,1,,,1
+A2,5,identify effective teaching strategies and resources for learning,1,,,1,,
+A2,6,Communicate competently in a professional setting in a second or additional language;,,,,,,1
+A2,7,Evaluate different algorithms and implementations of basic abstract data types;,,,,,1,
+A2,8,Reflect on the role and effectiveness of law in regulating and facilitating commercial transactions.,,,,1,,
+A2,9,"Describe the basic biology of newborn, adult and tissue-specific stem cells and the status of research into their characterisation and role in health and disease;",,1,,,,
+A2,10,"Use cognitive, technical and creative skills to generate and evaluate at an abstract level complex ideas and concepts relevant to planning and environment law.",,,1,,1,1
+A2,11,Demonstrate your individual design skills and thinking through a bespoke design methodology;,,,1,,,
+A2,12,"Engage in an internationalised world and exhibit cross-cultural competence, through a deeper understanding the history of another culture and its political system",,1,1,,,
+A2,13,"Apply social psychology theories to a range of contemporary social questions, including belonging, identity, attraction, aggression, conflict and negotiation.",,,1,,,
+A2,14,Engage in critical analysis and make reasoned and appropriate choices among alternatives;,,,,1,1,
+A2,15,explain the key concepts and theories in Politics and International Relations;,,1,,,,
+A2,16,Formulate research questions that are congruent with a chosen research approach,,,,,,1
+A2,17,compare and contrast various protocols used in the Internet and contemporary applications,,,,,1,
+A2,18,Demonstrate an understanding of the purpose of providing timely and appropriate feedback and reporting to students and parents using accurate and reliable records of student achievement.,,1,,,,
+A2,19,Apply principles of cross- and intercultural engagement in various contexts.,,,1,,,
+A2,20,Analyse a variety of source materials,,,,1,,
+A2,21,develop a comprehensive grounding in a number of quantitative methods of data production and analysis,,,,,,1
+A2,22,Demonstrate research skills by conducting an ethnographic project.,,,1,,,
+A2,23,"Use software packages, such as MUSIC and Aquacycle, for IUWM design and assessment",,,1,,,
+A2,24,"Investigate, analyse and synthesise complex information, problems, concepts and theories in relation to energy law, regulation and policy;",,,,1,,
+A2,25,Demonstrates insight and makes plans for continuous professional development in collaboration with peers and mentors to advance learning in Nutrition Science.,,,1,,,
+A2,26,To foster knowledge about Australia's democratic institutions and their inter-relationship with the community and with the processes of government,1,,,,,
+A2,27,"Identify, observe key ethical and legal obligations associated with news reporting, and reflect critically on their own and others' performance in this regard",1,,,,,
+A2,28,Identify the different types of environmental assessments and the decision-making contexts in which they are applied.,1,,,,,
+A2,29,Assess space-time coding schemes that are capable of improving the channel capacity of wireless systems.,,,,1,,
+A2,30,Reflect upon skills required to work in the area of sustainable development and identify skills they wish to develop further and;,1,,,,,
