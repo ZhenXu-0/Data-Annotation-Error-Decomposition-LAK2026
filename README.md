@@ -133,14 +133,12 @@ The script calculates 5 percentages that sum to 1.0:
 Two CSV files are needed:
 
 **A. Human Annotation File** (`human_annotation.csv`):
-  Required columns:
   - `Annotator`: Name/ID of the annotator (e.g., "A1", "A2", "groundtruth")
   - `ID`: Unique identifier for each item being annotated
   - **Taxonomy level columns**: One column for each level in your taxonomy (see examples below)
 
 
 **B. Model Annotation File** (`model_annotation.csv`):
-- Required columns:
   - `human_category`: The human-annotated category (groundtruth) for each item
   - `model_category`: The model-predicted category for each item
 
