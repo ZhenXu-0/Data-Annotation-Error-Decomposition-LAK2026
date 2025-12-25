@@ -135,7 +135,7 @@ Two CSV files are needed:
 **A. Human Annotation File** (`human_annotation.csv`):
   - `Annotator`: Name/ID of the annotator (e.g., "A1", "A2", "groundtruth")
   - `ID`: Unique identifier for each item being annotated
-  - **Taxonomy level columns**: One column for each level in your taxonomy (see examples below)
+  - `Taxonomy level columns`: One column for each level in your taxonomy (see examples below)
 
 
 **B. Model Annotation File** (`model_annotation.csv`):
@@ -146,13 +146,13 @@ Two CSV files are needed:
 
 1. **Open `calculate_error_decomposition.py`** in a text editor
 
-2. **Set the number of annotations** (around lines 37-38):
+2. **Set the number of annotations** :
    ```python
    NUM_HUMAN_ANNOTATIONS = 20  # Change to match your human annotation count
    NUM_MODEL_ANNOTATIONS = 150  # Change to match your model annotation count
    ```
 
-4. **Define your taxonomy levels** (around line 43):
+4. **Define your taxonomy levels** :
    ```python
    TAXONOMY_LEVELS = ["remember", "understand", "apply", "analyze", "evaluate", "create"]
    ```
