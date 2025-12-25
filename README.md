@@ -128,7 +128,7 @@ The script calculates 5 error decomposition percentages that sum to 1.0:
 4. **Boundary Ambiguity Error (Model)**: Model-specific errors due to boundary ambiguity
 5. **Conceptual Misidentification Error (Model)**: Model-specific errors due to conceptual misidentification
 
-#### Step 1: Prepare Your Data Files
+#### 1: Prepare Your Data Files
 
 You need two CSV files:
 
@@ -144,7 +144,7 @@ You need two CSV files:
   - `human_category`: The human-annotated category (groundtruth) for each item
   - `model_category`: The model-predicted category for each item
 
-#### Step 2: Configure the Script
+#### 2: Configure the Script
 
 1. **Open `calculate_error_decomposition.py`** in a text editor
 
@@ -165,7 +165,7 @@ You need two CSV files:
    - The script will automatically calculate distances between levels based on this ordering
 
 
-#### Step 3: Run the Script
+#### 3: Run the Script
 
 1. **Run the script**:
    ```bash
@@ -197,6 +197,3 @@ If you use this code in your research, please cite the original paper.
 
 ---
 
-## Contact
-
-[Add contact information here]
