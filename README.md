@@ -1,14 +1,12 @@
 # Enhancing LLM-Based Data Annotation with Error Decomposition
 
-This repository contains materials for the paper:
+This repository contains data and code needed to replicate the analyses presented in the paper below, as well as code for applying the proposed error decomposition method to new data annotation tasks.
 
+**Paper reference**
 Zhen Xu, Vedant Khatri, Diana Dai, Xiner Liu, Siyan, Xuanming, Renzhe Yu. (2025) Enhancing LLM-Based Data Annotation with Error Decomposition. In Proceedings of the 16th International Learning Analytics & Knowledge Conference. (LAK'26)
 
 ## Appendix
 The appendix of the paper is available here: [Appendix (PDF)](LAK26_Error_Decomposition_appendix.pdf)
-
-
-
 # Error Decomposition for Ordinal Classification Tasks
 
 This repository contains Python implementations for analyzing error decomposition in ordinal classification tasks, as described in the paper. The code calculates task-inherent errors (due to human annotation ambiguity) versus model-specific errors.
@@ -16,8 +14,9 @@ This repository contains Python implementations for analyzing error decompositio
 ## Table of Contents
 
 1. [Setup](#setup)
-2. [Part 1: Replicating Paper Results](#part-1-replicating-paper-results)
-3. [Part 2: Applying Error Decomposition to Your Own Task](#part-2-applying-error-decomposition-to-your-own-task)
+2. [Data Description](#data-description)
+3. [Part 1: Replicating Paper Results](#part-1-replicating-paper-results)
+4. [Part 2: Applying Error Decomposition to Your Own Task](#part-2-applying-error-decomposition-to-your-own-task)
 
 ---
 
@@ -50,6 +49,112 @@ This repository contains Python implementations for analyzing error decompositio
    ```bash
    pip install -r requirements.txt
    ```
+
+---
+
+## Data Description
+
+This section describes the data files used in this repository and their structure.
+
+### Directory Structure
+
+```
+Lak_code/
+├── human_annotation/          # Human annotation data files
+│   ├── Bloom-All_20.csv       # Bloom taxonomy annotations (20 items)
+│   ├── Bloom-All_30.csv       # Bloom taxonomy annotations (30 items)
+│   ├── Bloom-All_40.csv       # Bloom taxonomy annotations (40 items)
+│   ├── bloom_agreement_20.csv # Bloom inter-annotator agreement metrics
+│   ├── MathDial-All_20.csv    # MathDial taxonomy annotations
+│   ├── mathdial_agreement_20.csv
+│   ├── Uptake-All_20.csv      # Uptake taxonomy annotations
+│   ├── uptake_agreement_20.csv
+│   ├── GUG-All_20.csv         # GUG taxonomy annotations
+│   └── gug_agreement_20.csv
+├── performance_summary/       # Model performance data files
+│   ├── bloom_full.csv         # Full model predictions for Bloom
+│   ├── bloom_summary.csv      # Summary statistics for Bloom
+│   ├── mathdial_full.csv      # Full model predictions for MathDial
+│   ├── uptake_full.csv        # Full model predictions for Uptake
+│   └── gug_full.csv           # Full model predictions for GUG
+└── error_decomposition_sample_data/  # Sample data for Part 2
+    ├── human_annotation.csv   # Example human annotations
+    └── model_annotation.csv    # Example model predictions
+```
+
+### Human Annotation Files
+
+**Format**: CSV files with wide format (one column per taxonomy level)
+
+**File naming convention**: `{Dataset}-All_{N}.csv` where:
+- `{Dataset}`: Dataset name (Bloom, MathDial, Uptake, GUG)
+- `{N}`: Number of annotated items (20, 30, or 40)
+
+**Required columns**:
+- `Annotator`: Identifier for the annotator (e.g., "groundtruth", "A1", "A2")
+- `ID`: Unique identifier for each learning outcome/item
+- `Learning_outcome`: Text description of the item (optional, for reference)
+- **Taxonomy level columns**: One column per taxonomy level with binary values (1 = selected, empty/0 = not selected)
+
+**Example structure (Bloom taxonomy)**:
+```csv
+Annotator,ID,Learning_outcome,Remember,Understand,Apply,Analyze,Evaluate,Create
+groundtruth,1,Develop a plan for their first internship.,,,,,,1
+groundtruth,2,Evaluate design options.,,,,,1,
+A1,1,Develop a plan for their first internship.,,,,1,,
+A2,1,Develop a plan for their first internship.,,,,,,1
+```
+
+**Taxonomy levels by dataset**:
+- **Bloom**: Remember, Understand, Apply, Analyze, Evaluate, Create (6 levels)
+- **MathDial**: Focus, Probing, Telling, Generic (4 levels)
+- **Uptake**: Low, Mid, High (3 levels)
+- **GUG**: 1, 2, 3, 4 (4 levels, numeric)
+
+**Agreement files**: Files named `{dataset}_agreement_{N}.csv` contain inter-annotator agreement metrics (Krippendorff's alpha) calculated for each dataset.
+
+### Model Performance Files
+
+**Format**: CSV files with model predictions
+
+**File naming convention**: `{dataset}_full.csv` for detailed predictions, `{dataset}_summary.csv` for aggregated statistics
+
+**Required columns**:
+- `outcome_id`: Unique identifier matching the `ID` in human annotation files
+- `learning_outcome`: Text description (optional, for reference)
+- `human_category`: The human-annotated category (ground truth)
+- `model_category`: The model-predicted category
+- `exact_match`: Boolean indicating if prediction matches ground truth
+- `Technique`: Prompting strategy used (e.g., "Zero-shot", "Few-shot", "Chain-of-Thought")
+- `model`: Model name (e.g., "GPT-3.5", "GPT-4")
+
+**Example structure**:
+```csv
+outcome_id,learning_outcome,human_category,model_category,exact_match,Technique,model
+0,"Demonstrate research skills...","apply","analyze",False,"Zero-shot","GPT-3.5"
+1,"Identify local, national...","remember","analyze",False,"Zero-shot","GPT-3.5"
+2,"Assess space-time coding...","evaluate","analyze",False,"Zero-shot","GPT-3.5"
+```
+
+### Sample Data Files (for Part 2)
+
+Located in `error_decomposition_sample_data/`:
+
+- **`human_annotation.csv`**: Example human annotation file using Bloom taxonomy format (20 items, 2 annotators + ground truth)
+- **`model_annotation.csv`**: Example model prediction file (150 items) with `human_category` and `model_category` columns
+
+These files serve as templates for users who want to apply error decomposition to their own tasks.
+
+### Data Requirements Summary
+
+For **Part 1** (replicating paper results):
+- Human annotation files: `human_annotation/{Dataset}-All_{N}.csv`
+- Agreement files: `human_annotation/{dataset}_agreement_{N}.csv`
+- Model performance files: `performance_summary/{dataset}_full.csv`
+
+For **Part 2** (your own task):
+- Human annotation file: CSV with `Annotator`, `ID`, and taxonomy level columns
+- Model annotation file: CSV with `human_category` and `model_category` columns
 
 ---
 
